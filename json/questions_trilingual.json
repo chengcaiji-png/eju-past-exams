@@ -1,0 +1,133 @@
+{
+  "questions": [
+    {
+      "year": 2010,
+      "session": 1,
+      "subject": "science",
+      "subject_detail": "物理",
+      "question_number": 1,
+      "question_text": "問1 圧力と電気抵抗（electric resistance）の単位を，これらの基本単位の組み合わせで",
+      "source": "combined",
+      "page": 4,
+      "question_text_en": "Question 1: Express the units of pressure and electric resistance as combinations of these fundamental units.",
+      "question_text_zh": "问题1 压力和电阻的单位，用这些基本单位的组合表示。"
+    },
+    {
+      "year": 2010,
+      "session": 1,
+      "subject": "science",
+      "subject_detail": "物理",
+      "question_number": 2,
+      "question_text": "B 次の図１のように，軽いばねの一方の端を持ち，もう一方の端におもりをつけてつ",
+      "source": "combined",
+      "page": 5,
+      "correct_answer": 6,
+      "question_text_en": "B. As shown in Figure 1 below, one end of a lightweight spring is held, while a weight is attached to the other end.",
+      "question_text_zh": "B 请参考图1，如图所示，轻质弹簧的一端固定，一端挂上重物。"
+    },
+    {
+      "year": 2010,
+      "session": 1,
+      "subject": "science",
+      "subject_detail": "物理",
+      "question_number": 3,
+      "question_text": "次の図のように，粗い斜面上の小物体に，斜面に沿って上向きの初速度を与えたと",
+      "source": "combined",
+      "page": 6,
+      "correct_answer": 2,
+      "question_text_en": "As shown in the following diagram, an object of small mass is given an initial velocity directed upwards along a rough inclined plane.",
+      "question_text_zh": "根据下图，给粗糙斜面上的小物体沿斜面方向施加向上的初速度。"
+    },
+    {
+      "year": 2010,
+      "session": 1,
+      "subject": "science",
+      "subject_detail": "物理",
+      "question_number": 4,
+      "question_text": "に静止している人が観測したところ，次の図のように，台車は水平右向きに速さvで",
+      "source": "combined",
+      "page": 7,
+      "correct_answer": 3,
+      "question_text_en": "When a stationary observer observed, the cart was moving horizontally to the right at a speed of v, as shown in the following diagram.",
+      "question_text_zh": "根据静止观察者的观察，台车以水平向右的速度v移动，如下图所示。"
+    },
+    {
+      "year": 2010,
+      "session": 1,
+      "subject": "science",
+      "subject_detail": "物理",
+      "question_number": 5,
+      "question_text": "次の図のように，水平な床の上に固定された水平な台の上で，質量Ｍの小物体A",
+      "source": "combined",
+      "page": 8,
+      "correct_answer": 2,
+      "question_text_en": "Below is the translation of the provided text:\n\n\"In the following diagram, on a horizontal table fixed above a level floor, a small object A with mass M...\"",
+      "question_text_zh": "根据下图所示，在水平地面上固定的水平平台上，有一个质量为M的小物体A。"
+    },
+    {
+      "year": 2010,
+      "session": 1,
+      "subject": "science",
+      "subject_detail": "物理",
+      "question_number": 6,
+      "question_text": "質量ｍの２つの小物体A，Ｂがある。次の図１のように，Aは軽くて伸びない糸で",
+      "source": "combined",
+      "page": 9,
+      "correct_answer": 2,
+      "question_text_en": "There are two small objects, A and B, each with a mass of m. As shown in Figure 1, object A is connected by a light, inextensible string to...",
+      "question_text_zh": "质量为 m 的两个小物体 A 和 B 存在。根据下图 1 的示意，A 通过一根轻而且不可伸长的绳子与..."
+    },
+    {
+      "year": 2010,
+      "session": 1,
+      "subject": "science",
+      "subject_detail": "物理",
+      "question_number": 7,
+      "question_text": "に動けるようにした。次の図のように，Ｂを鉛直に（vertically）立て，中心０を通る",
+      "source": "combined",
+      "page": 10,
+      "correct_answer": 3,
+      "question_text_en": "The text translates to:\n\n\"To enable movement, B is to be positioned vertically as shown in the following diagram, passing through the center point 0.\"",
+      "question_text_zh": "将其移动到可操作的状态。如下图所示，将B垂直（vertically）立起，并通过中心0。"
+    },
+    {
+      "year": 2010,
+      "session": 1,
+      "subject": "science",
+      "subject_detail": "物理",
+      "question_number": 8,
+      "question_text": "次の問いA(問1)，B(問2)，C(問3）に答えなさい。",
+      "source": "combined",
+      "page": 11,
+      "correct_answer": 3,
+      "question_text_en": "Please answer the following questions: A (Question 1), B (Question 2), and C (Question 3).",
+      "question_text_zh": "请回答以下问题A（问题1）、B（问题2）、C（问题3）。"
+    },
+    {
+      "year": 2010,
+      "session": 1,
+      "subject": "science",
+      "subject_detail": "物理",
+      "question_number": 9,
+      "question_text": "次の図１のように，鉛直に（vertically）置かれたシリンダーと，断面積 S，質量M",
+      "source": "combined",
+      "page": 12,
+      "correct_answer": 6,
+      "question_text_en": "As shown in Figure 1, a cylinder is placed vertically, having a cross-sectional area S and a mass M.",
+      "question_text_zh": "根据图1所示，垂直放置的圆柱体，其截面积为 S，质量为 M。"
+    },
+    {
+      "year": 2010,
+      "session": 1,
+      "subject": "science",
+      "subject_detail": "物理",
+      "question_number": 10,
+      "question_text": "n [mol]の単原子分子理想気体（monatomicideal gas）の状態を次のp-V図のよう",
+      "source": "combined",
+      "page": 13,
+      "correct_answer": 3,
+      "question_text_en": "The state of a monatomic ideal gas with n [mol] is represented as shown in the following p-V diagram.",
+      "question_text_zh": "n [mol] 的单原子分子理想气体（monatomic ideal gas）状态如图所示的 p-V 图所示。"
+    }
+  ]
+}

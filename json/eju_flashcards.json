@@ -1,0 +1,2907 @@
+{
+  "flashcards": [
+    {
+      "concept": {
+        "ja": "地理の構造と特徴",
+        "zh": "地理的结构与特征",
+        "en": "Geographical Structures and Features",
+        "vi": "Cấu trúc và Đặc điểm Địa lý"
+      },
+      "core_rule": {
+        "ja": "特定の地域や時代における地理的特徴の理解と比較",
+        "zh": "理解和比较特定区域或时代的地理特征",
+        "en": "Understanding and Comparing Geographical Features of Specific Regions or Periods",
+        "vi": "Hiểu và So sánh các Đặc điểm Địa lý của Các Khu vực hoặc Thời kỳ Cụ thể"
+      },
+      "elements": [
+        {
+          "ja": "古期造山帯と新期造山帯の特徴的な違い",
+          "zh": "古老造山带和新生造山带的特征区别",
+          "en": "Distinct Characteristics of Old and New Mountain Ranges",
+          "vi": "Các Đặc điểm Đặc trưng của Dãy Núi Cũ và Mới"
+        },
+        {
+          "ja": "特定の緯度における地形の影響",
+          "zh": "特定纬度下地形的影响",
+          "en": "Impact of Geography at Specific Latitudes",
+          "vi": "Ảnh hưởng của Địa hình tại Các Vĩ độ Cụ thể"
+        },
+        {
+          "ja": "気圧配置が気候に与える影響",
+          "zh": "气压配置对气候的影响",
+          "en": "Impact of Pressure Patterns on Climate",
+          "vi": "Ảnh hưởng của Cấu hình Áp suất đến Khí hậu"
+        }
+      ],
+      "common_traps": {
+        "ja": "表面的類似性に惑わされず、実際の特徴の違いを見極める",
+        "zh": "不要被表面的相似性迷惑，要识别实际特征的不同",
+        "en": "Avoid being misled by surface similarities; discern actual differences in features",
+        "vi": "Tránh bị đánh lừa bởi sự tương đồng bề mặt; phân biệt sự khác biệt thực tế trong các đặc điểm"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "計算問題における数値の操作",
+        "zh": "计算问题中的数值操作",
+        "en": "Numeric operations in calculation problems",
+        "vi": "Phép toán số trong bài toán tính toán"
+      },
+      "core_rule": {
+        "ja": "数値を正確に操作し、全ての計算ステップを順に実行すること。",
+        "zh": "准确操作数值，并逐步执行所有计算步骤。",
+        "en": "Accurately manipulate numbers and execute all calculation steps sequentially.",
+        "vi": "Thao tác chính xác các số và thực hiện tất cả các bước tính toán theo trình tự."
+      },
+      "elements": [
+        {
+          "ja": "基本的な数値の理解",
+          "zh": "基本的数值理解",
+          "en": "Basic understanding of numbers",
+          "vi": "Hiểu biết cơ bản về số"
+        },
+        {
+          "ja": "計算の順序",
+          "zh": "计算顺序",
+          "en": "Order of operations",
+          "vi": "Thứ tự thực hiện phép tính"
+        },
+        {
+          "ja": "正確な結果の確認",
+          "zh": "验证准确结果",
+          "en": "Verification of accurate results",
+          "vi": "Xác minh kết quả chính xác"
+        }
+      ],
+      "common_traps": {
+        "ja": "計算手順を飛ばしたり、数値の理論的背景を無視すること。",
+        "zh": "跳过计算步骤或忽视数值的理论背景。",
+        "en": "Skipping calculation steps or ignoring the theoretical background of numbers.",
+        "vi": "Bỏ qua các bước tính toán hoặc bỏ qua nền tảng lý thuyết của số."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "日本国憲法と関連する法制度",
+        "zh": "与日本国宪法相关的法律制度",
+        "en": "Legal systems related to the Japanese Constitution",
+        "vi": "Hệ thống pháp luật liên quan đến Hiến pháp Nhật Bản"
+      },
+      "core_rule": {
+        "ja": "与えられた選択肢の中から日本国憲法に関する最も適切な答えを選ぶ",
+        "zh": "从给定的选项中选择与日本国宪法最相符的答案",
+        "en": "Choose the most appropriate answer related to the Japanese Constitution from the given options",
+        "vi": "Chọn câu trả lời phù hợp nhất liên quan đến Hiến pháp Nhật Bản từ các tùy chọn đã cho"
+      },
+      "elements": [
+        {
+          "ja": "日本国憲法の主要なポイントを理解する",
+          "zh": "理解日本国宪法的主要要点",
+          "en": "Understand the main points of the Japanese Constitution",
+          "vi": "Hiểu các điểm chính của Hiến pháp Nhật Bản"
+        },
+        {
+          "ja": "提示された選択肢を慎重に分析する",
+          "zh": "仔细分析提供的选项",
+          "en": "Carefully analyze the provided options",
+          "vi": "Phân tích cẩn thận các tùy chọn được cung cấp"
+        },
+        {
+          "ja": "正しいかどうかの基準を持つ",
+          "zh": "有一个判断正确与否的标准",
+          "en": "Have a criterion for judging correctness",
+          "vi": "Có tiêu chí để đánh giá tính đúng sai"
+        }
+      ],
+      "common_traps": {
+        "ja": "類似した情報を混同すること、あいまいな選択肢を選ぶこと",
+        "zh": "混淆相似的信息，选择模糊的选项",
+        "en": "Confusing similar information and choosing ambiguous options",
+        "vi": "Gây nhầm lẫn thông tin tương tự và chọn các tùy chọn mơ hồ"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "フランス革命とその影響",
+        "zh": "法国革命及其影响",
+        "en": "The French Revolution and its impacts",
+        "vi": "Cách mạng Pháp và những tác động của nó"
+      },
+      "core_rule": {
+        "ja": "歴史的出来事の因果関係や影響を理解し、選択肢を検討する。",
+        "zh": "理解历史事件的因果关系和影响，并评估选项。",
+        "en": "Understand the causal relationships and impacts of historical events, and evaluate the options.",
+        "vi": "Hiểu mối quan hệ nguyên nhân và tác động của các sự kiện lịch sử, và đánh giá các lựa chọn."
+      },
+      "elements": [
+        {
+          "ja": "フランス革命がもたらした社会的および政治的変化",
+          "zh": "法国革命带来的社会和政治变化",
+          "en": "Social and political changes brought by the French Revolution",
+          "vi": "Những thay đổi xã hội và chính trị do Cách mạng Pháp mang lại"
+        },
+        {
+          "ja": "フランス人権宣言の内容およびその意義",
+          "zh": "法国人权宣言的内容及其意义",
+          "en": "The content and significance of the Declaration of the Rights of Man and of the Citizen",
+          "vi": "Nội dung và ý nghĩa của Tuyên ngôn về Quyền của con người và của công dân"
+        },
+        {
+          "ja": "フランス革命前の社会構造や政治機構の特徴",
+          "zh": "法国革命前的社会结构和政治体制的特点",
+          "en": "Characteristics of the social structure and political system prior to the French Revolution",
+          "vi": "Đặc điểm của cấu trúc xã hội và hệ thống chính trị trước Cách mạng Pháp"
+        }
+      ],
+      "common_traps": {
+        "ja": "単一の視点から物事を考えず、 متعددの側面を検討すること。",
+        "zh": "不要从单一视角考虑事物，而要考虑多个方面。",
+        "en": "Avoid considering matters from a single perspective; consider multiple aspects.",
+        "vi": "Tránh xem xét vấn đề từ một góc độ duy nhất; hãy xem xét nhiều khía cạnh."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "歴史的イベントの影響",
+        "zh": "历史事件的影响",
+        "en": "Impact of Historical Events",
+        "vi": "Tác động của các sự kiện lịch sử"
+      },
+      "core_rule": {
+        "ja": "特定の歴史的出来事とその影響に関する最も正確な記述を選択すること。",
+        "zh": "选择与特定历史事件及其影响最相关的描述。",
+        "en": "Select the most accurate description related to a specific historical event and its impact.",
+        "vi": "Chọn mô tả chính xác nhất liên quan đến một sự kiện lịch sử cụ thể và tác động của nó."
+      },
+      "elements": [
+        {
+          "ja": "歴史的出来事の特定の年や時期",
+          "zh": "特定历史事件的年份或时期",
+          "en": "Specific year or period of the historical event",
+          "vi": "Năm hoặc thời kỳ cụ thể của sự kiện lịch sử"
+        },
+        {
+          "ja": "その出来事の背景や原因",
+          "zh": "该事件的背景或原因",
+          "en": "Background or causes of the event",
+          "vi": "Bối cảnh hoặc nguyên nhân của sự kiện"
+        },
+        {
+          "ja": "出来事による社会的、経済的、政治的影響",
+          "zh": "事件带来的社会、经济和政治影响",
+          "en": "Social, economic, and political impacts resulting from the event",
+          "vi": "Tác động xã hội, kinh tế và chính trị do sự kiện gây ra"
+        },
+        {
+          "ja": "他の関連する歴史的出来事との関連性",
+          "zh": "与其他相关历史事件的关系",
+          "en": "Relation to other relevant historical events",
+          "vi": "Mối quan hệ với các sự kiện lịch sử liên quan khác"
+        }
+      ],
+      "common_traps": {
+        "ja": "出来事の詳細に惑わされず、影響の全体的な理解に集中すること。",
+        "zh": "不要被事件的细节所迷惑，而要集中于对影响的全面理解。",
+        "en": "Do not be misled by details of the event; focus on an overall understanding of the impacts.",
+        "vi": "Đừng bị lầm lẫn bởi các chi tiết của sự kiện; hãy tập trung vào việc hiểu tổng thể về các tác động."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "イギリスの産業革命とその経済的影響",
+        "zh": "英国工业革命及其经济影响",
+        "en": "The Industrial Revolution in Britain and its economic impact",
+        "vi": "Cách mạng công nghiệp ở Anh và tác động kinh tế của nó"
+      },
+      "core_rule": {
+        "ja": "歴史的な事象や理論の影響を理解し、関連する重要な情報を抽出する。",
+        "zh": "理解历史事件或理论的影响，并提取相关的重要信息。",
+        "en": "Understand the impact of historical events or theories and extract relevant key information.",
+        "vi": "Hiểu tác động của các sự kiện lịch sử hoặc lý thuyết và rút ra thông tin chính phù hợp."
+      },
+      "elements": [
+        {
+          "ja": "19世紀のイギリスの経済状況・産業",
+          "zh": "19世纪英国的经济状况和产业",
+          "en": "Economic conditions and industries in Britain during the 19th century",
+          "vi": "Tình hình kinh tế và các ngành công nghiệp ở Anh trong thế kỷ 19"
+        },
+        {
+          "ja": "貿易や輸出品の具体例",
+          "zh": "贸易和出口产品的具体例子",
+          "en": "Specific examples of trade and exports",
+          "vi": "Ví dụ cụ thể về thương mại và xuất khẩu"
+        },
+        {
+          "ja": "リカードの比較生産費説",
+          "zh": "李嘉图的比较优势理论",
+          "en": "Ricardo's theory of comparative advantage",
+          "vi": "Lý thuyết lợi thế so sánh của Ricardo"
+        },
+        {
+          "ja": "産業革命の技術的革新",
+          "zh": "工业革命的技术创新",
+          "en": "Technological innovations of the Industrial Revolution",
+          "vi": "Những đổi mới công nghệ trong Cách mạng công nghiệp"
+        }
+      ],
+      "common_traps": {
+        "ja": "単一の要素に焦点を当て過ぎず、全体のコンテキストを考慮しなければならない。",
+        "zh": "过于关注单一因素，而忽视了整体背景。",
+        "en": "Focusing too much on a single element while neglecting the broader context.",
+        "vi": "Quá chú trọng vào một yếu tố duy nhất mà bỏ qua bối cảnh tổng thể."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "文の主題を理解すること。",
+        "zh": "理解文本的主题。",
+        "en": "Understanding the main topic of the text.",
+        "vi": "Hiểu chủ đề chính của văn bản."
+      },
+      "core_rule": {
+        "ja": "文の中で最も重要なアイデアを特定すること。",
+        "zh": "确定文本中最重要的思想。",
+        "en": "Identify the most important idea in the text.",
+        "vi": "Xác định ý tưởng quan trọng nhất trong văn bản."
+      },
+      "elements": [
+        {
+          "ja": "文の全体的な意味を把握する",
+          "zh": "理解整个文本的意义",
+          "en": "Comprehending the overall meaning of the text",
+          "vi": "Nắm bắt ý nghĩa tổng thể của văn bản"
+        },
+        {
+          "ja": "重要なキーワードやフレーズを特定する",
+          "zh": "识别重要的关键词和短语",
+          "en": "Identifying key words and phrases",
+          "vi": "Xác định các từ khóa và cụm từ quan trọng"
+        },
+        {
+          "ja": "文の構造を分析する",
+          "zh": "分析文本的结构",
+          "en": "Analyzing the structure of the text",
+          "vi": "Phân tích cấu trúc của văn bản"
+        }
+      ],
+      "common_traps": {
+        "ja": "表面的な情報に惑わされること。",
+        "zh": "被表面信息所迷惑。",
+        "en": "Getting misled by superficial information.",
+        "vi": "Bị đánh lừa bởi thông tin bề mặt."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "貿易と外貨準備についてのデータ解析",
+        "zh": "贸易与外汇储备的数据分析",
+        "en": "Data analysis on trade and foreign reserves",
+        "vi": "Phân tích dữ liệu về thương mại và dự trữ ngoại hối"
+      },
+      "core_rule": {
+        "ja": "与えられたデータから情報を抽出し、特徴やトレンドを特定する",
+        "zh": "从给定数据中提取信息，识别特点和趋势",
+        "en": "Extract information from the given data and identify features and trends",
+        "vi": "Rút trích thông tin từ dữ liệu cho sẵn và xác định các đặc điểm cũng như xu hướng"
+      },
+      "elements": [
+        {
+          "ja": "データの精査と比較",
+          "zh": "检查和比较数据",
+          "en": "Examine and compare data",
+          "vi": "Xem xét và so sánh dữ liệu"
+        },
+        {
+          "ja": "輸入元または外貨準備高の変化を分析",
+          "zh": "分析进口来源或外汇储备的变化",
+          "en": "Analyze changes in sources of import or foreign reserves",
+          "vi": "Phân tích sự thay đổi trong nguồn nhập khẩu hoặc dự trữ ngoại hối"
+        },
+        {
+          "ja": "選択肢の中から正しい情報を選ぶ",
+          "zh": "从选项中选择正确的信息",
+          "en": "Select the correct information from the options",
+          "vi": "Chọn thông tin chính xác từ các tùy chọn"
+        }
+      ],
+      "common_traps": {
+        "ja": "データの解釈を誤ること、または選択肢の具体性を混同すること",
+        "zh": "错误解读数据或混淆选项的具体性",
+        "en": "Misinterpreting data or confusing the specificity of options",
+        "vi": "Hiểu sai dữ liệu hoặc nhầm lẫn độ cụ thể của các tùy chọn"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "都市間の距離や標準時に関する情報を理解し、選択肢から正しい答えを選ぶ能力",
+        "zh": "理解城市间的距离和标准时间的信息，并从选项中选择正确答案的能力",
+        "en": "The ability to understand information about distances between cities and standard time, and to choose the correct answer from options",
+        "vi": "Khả năng hiểu thông tin về khoảng cách giữa các thành phố và giờ chuẩn, và chọn câu trả lời đúng từ các tùy chọn"
+      },
+      "core_rule": {
+        "ja": "選択肢の中から最も適切な情報を選ぶ。",
+        "zh": "从选项中选择最合适的信息。",
+        "en": "Choose the most appropriate information from the options provided.",
+        "vi": "Chọn thông tin phù hợp nhất từ các tùy chọn được cung cấp."
+      },
+      "elements": [
+        {
+          "ja": "文章や提示されたデータを注意深く読み取る",
+          "zh": "仔细阅读文章和提供的数据",
+          "en": "Carefully read the text and the provided data",
+          "vi": "Đọc kỹ văn bản và dữ liệu được cung cấp"
+        },
+        {
+          "ja": "必要な情報を特定する",
+          "zh": "确定必要的信息",
+          "en": "Identify the necessary information",
+          "vi": "Xác định thông tin cần thiết"
+        },
+        {
+          "ja": "選択肢を比較して、正しい答えを見つける",
+          "zh": "比较选项，找到正确答案",
+          "en": "Compare the options to find the correct answer",
+          "vi": "So sánh các tùy chọn để tìm câu trả lời đúng"
+        },
+        {
+          "ja": "文脈に基づいて答えを導き出す",
+          "zh": "根据上下文推导出答案",
+          "en": "Derive the answer based on the context",
+          "vi": "Rút ra câu trả lời dựa trên ngữ cảnh"
+        }
+      ],
+      "common_traps": {
+        "ja": "選択肢の表現に惑わされることがある",
+        "zh": "可能被选项中的描述所迷惑",
+        "en": "Can be misled by the wording of the options",
+        "vi": "Có thể bị đánh lạc hướng bởi cách diễn đạt của các tùy chọn"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "日本の経済や政治、社会保障の理解",
+        "zh": "理解日本的经济、政治和社会保障",
+        "en": "Understanding Japan's economy, politics, and social security",
+        "vi": "Hiểu biết về kinh tế, chính trị và an sinh xã hội của Nhật Bản"
+      },
+      "core_rule": {
+        "ja": "日本の歴史的背景や制度を正しく理解し、選択肢を評価すること",
+        "zh": "正确理解日本的历史背景和制度，并评估选项",
+        "en": "Correctly understand Japan's historical context and systems, and evaluate the options",
+        "vi": "Hiểu đúng về bối cảnh lịch sử và hệ thống của Nhật Bản và đánh giá các lựa chọn"
+      },
+      "elements": [
+        {
+          "ja": "日本経済の発展の歴史",
+          "zh": "日本经济发展的历史",
+          "en": "History of Japan's economic development",
+          "vi": "Lịch sử phát triển kinh tế của Nhật Bản"
+        },
+        {
+          "ja": "自由民主党の役割と政策",
+          "zh": "自由民主党的角色与政策",
+          "en": "The role and policies of the Liberal Democratic Party",
+          "vi": "Vai trò và chính sách của Đảng Dân chủ Tự do"
+        },
+        {
+          "ja": "日本の社会保障制度の構造",
+          "zh": "日本社会保障制度的结构",
+          "en": "Structure of Japan's social security system",
+          "vi": "Cấu trúc hệ thống an sinh xã hội của Nhật Bản"
+        }
+      ],
+      "common_traps": {
+        "ja": "関連するが誤った情報や過去の事例に基づく選択肢に注意すること",
+        "zh": "注意那些与主题相关但错误的信息或基于过去案例的选项",
+        "en": "Be cautious of options that are related but incorrect, based on outdated information or examples",
+        "vi": "Cẩn thận với các lựa chọn có liên quan nhưng không chính xác, dựa trên thông tin hoặc ví dụ lỗi thời"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "政治制度の理解",
+        "zh": "政治制度的理解",
+        "en": "Understanding Political Systems",
+        "vi": "Hiểu biết về hệ thống chính trị"
+      },
+      "core_rule": {
+        "ja": "政治制度の特徴をより深く理解し、それを比較・対比する。",
+        "zh": "更深入地理解政治制度的特点，并进行比较和对比。",
+        "en": "Understand the characteristics of political systems more deeply and compare and contrast them.",
+        "vi": "Hiểu rõ hơn về các đặc điểm của hệ thống chính trị và so sánh, đối chiếu chúng."
+      },
+      "elements": [
+        {
+          "ja": "主権の所在",
+          "zh": "主权所在",
+          "en": "Sovereignty",
+          "vi": "Quyền lực tối cao"
+        },
+        {
+          "ja": "権力の分立",
+          "zh": "权力分立",
+          "en": "Separation of Powers",
+          "vi": "Phân chia quyền lực"
+        },
+        {
+          "ja": "制度の役割",
+          "zh": "制度的角色",
+          "en": "Role of the System",
+          "vi": "Vai trò của hệ thống"
+        },
+        {
+          "ja": "他国との比較",
+          "zh": "与其他国家的比较",
+          "en": "Comparison with Other Countries",
+          "vi": "So sánh với các quốc gia khác"
+        }
+      ],
+      "common_traps": {
+        "ja": "特定の国や時代に偏った理解を持つこと。",
+        "zh": "对特定国家或时代的偏颇理解。",
+        "en": "Holding a biased understanding focused on specific countries or periods.",
+        "vi": "Có cái nhìn thiên lệch chỉ tập trung vào các quốc gia hoặc thời kỳ cụ thể."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "日本国憲法における基本的人権の保障",
+        "zh": "日本宪法中对基本人权的保障",
+        "en": "Protection of Fundamental Human Rights in the Japanese Constitution",
+        "vi": "Bảo vệ quyền con người cơ bản trong Hiến pháp Nhật Bản"
+      },
+      "core_rule": {
+        "ja": "日本国憲法は基本的人権を保障している。",
+        "zh": "日本宪法保障基本人权。",
+        "en": "The Japanese Constitution guarantees fundamental human rights.",
+        "vi": "Hiến pháp Nhật Bản bảo vệ quyền con người cơ bản."
+      },
+      "elements": [
+        {
+          "ja": "生存の維持・発展に必要な権利",
+          "zh": "维护和发展的生存权利",
+          "en": "Rights necessary for sustaining and developing life",
+          "vi": "Quyền cần thiết để duy trì và phát triển sự sống"
+        },
+        {
+          "ja": "身体の自由に関する規定",
+          "zh": "关于身体自由的规定",
+          "en": "Provisions regarding physical freedom",
+          "vi": "Các quy định về tự do thân thể"
+        },
+        {
+          "ja": "宗教活動の自由に関する規定",
+          "zh": "关于宗教活动自由的规定",
+          "en": "Provisions concerning freedom of religious activity",
+          "vi": "Các quy định về tự do hoạt động tôn giáo"
+        }
+      ],
+      "common_traps": {
+        "ja": "基本的人権の範囲や制約についての理解不足",
+        "zh": "对基本人权的范围和限制理解不足",
+        "en": "Insufficient understanding of the scope and limitations of fundamental human rights",
+        "vi": "Hiểu biết không đầy đủ về phạm vi và giới hạn của quyền con người cơ bản"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "国際的な組織や会議の歴史的背景と役割",
+        "zh": "国际组织和会议的历史背景与作用",
+        "en": "Historical background and roles of international organizations and meetings",
+        "vi": "Bối cảnh lịch sử và vai trò của các tổ chức và hội nghị quốc tế"
+      },
+      "core_rule": {
+        "ja": "国際的な出来事や組織に関する情報を正確に理解し、背景を考慮する必要がある。",
+        "zh": "需要准确理解国际事件和组织的信息，并考虑其背景。",
+        "en": "It is important to accurately understand the information about international events and organizations while considering their backgrounds.",
+        "vi": "Cần hiểu chính xác thông tin về các sự kiện và tổ chức quốc tế trong khi xem xét bối cảnh của chúng."
+      },
+      "elements": [
+        {
+          "ja": "国際会議や組織の設立年や目的を把握すること。",
+          "zh": "掌握国际会议或组织的成立年份和目的。",
+          "en": "Understanding the founding year and purpose of international meetings or organizations.",
+          "vi": "Hiểu năm thành lập và mục đích của các cuộc họp hoặc tổ chức quốc tế."
+        },
+        {
+          "ja": "主要な成員国や関与する国々の確認。",
+          "zh": "确认主要成员国及相关国家。",
+          "en": "Identifying key member countries and involved nations.",
+          "vi": "Xác định các quốc gia thành viên chính và các quốc gia liên quan."
+        },
+        {
+          "ja": "国際的な影響や重要性を分析すること。",
+          "zh": "分析国际的影响和重要性。",
+          "en": "Analyzing the international impact and significance.",
+          "vi": "Phân tích ảnh hưởng và tầm quan trọng quốc tế."
+        }
+      ],
+      "common_traps": {
+        "ja": "日付や国名を記憶するだけではなく、背景情報を理解することが重要。",
+        "zh": "不仅仅记住日期和国家名称，还需要理解背景信息。",
+        "en": "It is important not just to memorize dates and country names, but to understand the background information.",
+        "vi": "Không chỉ ghi nhớ ngày tháng và tên quốc gia, mà còn phải hiểu thông tin bối cảnh."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "EUの設立、国連海洋法条約、アジア太平洋経済協力（APEC）に関する国際的な合意と組織の役割。",
+        "zh": "关于欧盟的建立、联合国海洋法公约以及亚太经济合作组织（APEC）的国际协议和组织的角色。",
+        "en": "International agreements and organizations related to the establishment of the EU, the United Nations Convention on the Law of the Sea, and the Asia-Pacific Economic Cooperation (APEC).",
+        "vi": "Các thỏa thuận và tổ chức quốc tế liên quan đến việc thành lập EU, Công ước Liên Hợp Quốc về Luật Biển và Hợp tác Kinh tế Châu Á-Thái Bình Dương (APEC)."
+      },
+      "core_rule": {
+        "ja": "国際的な合意や条約の主要な内容とその影響を理解する。",
+        "zh": "理解国际协议或条约的主要内容及其影响。",
+        "en": "Understanding the main content of international agreements or treaties and their impact.",
+        "vi": "Hiểu nội dung chính của các thỏa thuận hoặc hiệp ước quốc tế và tác động của chúng."
+      },
+      "elements": [
+        {
+          "ja": "発効年（1993, 1994）",
+          "zh": "生效年份（1993, 1994）",
+          "en": "Year of effectiveness (1993, 1994)",
+          "vi": "Năm có hiệu lực (1993, 1994)"
+        },
+        {
+          "ja": "関連する国や地域",
+          "zh": "相关国家或地区",
+          "en": "Related countries or regions",
+          "vi": "Các quốc gia hoặc khu vực liên quan"
+        },
+        {
+          "ja": "条約の目的や重要性",
+          "zh": "条约的目的和重要性",
+          "en": "Purpose and significance of the treaty",
+          "vi": "Mục tiêu và tầm quan trọng của hiệp ước"
+        }
+      ],
+      "common_traps": {
+        "ja": "条約の詳細を混同すること、特定の国の役割を誤解すること。",
+        "zh": "混淆条约的细节、误解特定国家的角色。",
+        "en": "Confusing the details of treaties, misunderstanding the roles of specific countries.",
+        "vi": "Nhầm lẫn chi tiết của các hiệp ước, hiểu sai vai trò của một số quốc gia cụ thể."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "アメリカ独立とその影響に関する知識",
+        "zh": "关于美国独立及其影响的知识",
+        "en": "Knowledge of American independence and its impacts",
+        "vi": "Kiến thức về sự độc lập của Mỹ và các ảnh hưởng của nó"
+      },
+      "core_rule": {
+        "ja": "アメリカ独立の歴史的背景や成果を理解し、それが他の国々に与えた影響を分析すること。",
+        "zh": "理解美国独立的历史背景和成就，并分析其对其他国家的影响。",
+        "en": "Understand the historical context and outcomes of American independence and analyze its impacts on other nations.",
+        "vi": "Hiểu bối cảnh lịch sử và kết quả của sự độc lập của Mỹ và phân tích tác động của nó đến các quốc gia khác."
+      },
+      "elements": [
+        {
+          "ja": "アメリカ独立の主要な出来事とその年",
+          "zh": "美国独立的重要事件及其年份",
+          "en": "Key events of American independence and their years",
+          "vi": "Các sự kiện chính của sự độc lập của Mỹ và năm của chúng"
+        },
+        {
+          "ja": "南北戦争とその影響",
+          "zh": "南北战争及其影响",
+          "en": "The Civil War and its impacts",
+          "vi": "Cuộc nội chiến và các tác động của nó"
+        },
+        {
+          "ja": "アメリカ独立宣言の主な内容",
+          "zh": "美国独立宣言的主要内容",
+          "en": "Main content of the Declaration of Independence",
+          "vi": "Nội dung chính của Tuyên ngôn độc lập"
+        },
+        {
+          "ja": "他国に対するアメリカ独立の影響",
+          "zh": "美国独立对其他国家的影响",
+          "en": "Impact of American independence on other countries",
+          "vi": "Tác động của sự độc lập của Mỹ đến các quốc gia khác"
+        }
+      ],
+      "common_traps": {
+        "ja": "年号や出来事を混同しやすいので、正確な情報を確認することが重要。",
+        "zh": "容易将年份和事件混淆，因此确认准确的信息非常重要。",
+        "en": "It is easy to confuse dates and events, so verifying accurate information is crucial.",
+        "vi": "Rất dễ nhầm lẫn giữa các năm và sự kiện, vì vậy việc xác minh thông tin chính xác là rất quan trọng."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "政策評価",
+        "zh": "政策评估",
+        "en": "Policy Evaluation",
+        "vi": "Đánh giá Chính sách"
+      },
+      "core_rule": {
+        "ja": "政策の効果を総費用と総便益から評価すること",
+        "zh": "通过总成本和总收益来评估政策的效果",
+        "en": "Evaluating the effect of policies based on total costs and total benefits",
+        "vi": "Đánh giá hiệu quả của các chính sách dựa trên tổng chi phí và tổng lợi ích"
+      },
+      "elements": [
+        {
+          "ja": "政策の種類 (A～D)",
+          "zh": "政策类型（A～D）",
+          "en": "Types of Policies (A–D)",
+          "vi": "Các loại chính sách (A–D)"
+        },
+        {
+          "ja": "総費用",
+          "zh": "总成本",
+          "en": "Total Costs",
+          "vi": "Tổng chi phí"
+        },
+        {
+          "ja": "総便益",
+          "zh": "总收益",
+          "en": "Total Benefits",
+          "vi": "Tổng lợi ích"
+        },
+        {
+          "ja": "純便益 (総便益 - 総費用)",
+          "zh": "纯收益（总收益 - 总成本）",
+          "en": "Net Benefits (Total Benefits - Total Costs)",
+          "vi": "Lợi ích ròng (Tổng lợi ích - Tổng chi phí)"
+        },
+        {
+          "ja": "政策の評価基準",
+          "zh": "政策评估标准",
+          "en": "Criteria for Policy Evaluation",
+          "vi": "Tiêu chí đánh giá chính sách"
+        }
+      ],
+      "common_traps": {
+        "ja": "総便益と総費用を混同すること",
+        "zh": "混淆总收益和总成本",
+        "en": "Confusing total benefits with total costs",
+        "vi": "Nhầm lẫn giữa tổng lợi ích và tổng chi phí"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "政治的、歴史的、または制度的なテーマに関する情報を正しく理解し、選択肢から最も適当なものを選ぶ能力。",
+        "zh": "理解有关政治、历史或制度主题的信息，并从选项中选择最合适的能力。",
+        "en": "The ability to correctly understand information related to political, historical, or institutional themes and select the most appropriate option from the choices.",
+        "vi": "Khả năng hiểu chính xác thông tin liên quan đến các chủ đề chính trị, lịch sử hoặc thể chế và chọn lựa chọn phù hợp nhất từ các lựa chọn."
+      },
+      "core_rule": {
+        "ja": "特定のテーマに関する理解を深め、選択肢を慎重に評価すること。",
+        "zh": "深入理解特定主题，并仔细评估选项。",
+        "en": "Deepen understanding of specific themes and carefully evaluate the options.",
+        "vi": "Nâng cao hiểu biết về các chủ đề cụ thể và đánh giá cẩn thận các lựa chọn."
+      },
+      "elements": [
+        {
+          "ja": "関連する背景知識を持つこと",
+          "zh": "掌握相关的背景知识",
+          "en": "Having relevant background knowledge",
+          "vi": "Có kiến thức nền tảng liên quan"
+        },
+        {
+          "ja": "選択肢の各々を分析する能力",
+          "zh": "分析每个选项的能力",
+          "en": "The ability to analyze each option",
+          "vi": "Khả năng phân tích từng lựa chọn"
+        },
+        {
+          "ja": "論理的思考を駆使すること",
+          "zh": "运用逻辑思维",
+          "en": "Utilizing logical reasoning",
+          "vi": "Sử dụng lý luận logic"
+        },
+        {
+          "ja": "重要なキーワードの識別",
+          "zh": "识别重要的关键词",
+          "en": "Identifying key keywords",
+          "vi": "Xác định các từ khóa quan trọng"
+        }
+      ],
+      "common_traps": {
+        "ja": "選択肢の中のうわべの言葉に惑わされること",
+        "zh": "被选项表面的文字所迷惑",
+        "en": "Getting misled by the surface language of the options",
+        "vi": "Bị lừa bởi ngôn ngữ bề ngoài của các lựa chọn"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "日本文学",
+        "zh": "日本文学",
+        "en": "Japanese Literature",
+        "vi": "Văn học Nhật Bản"
+      },
+      "core_rule": {
+        "ja": "日本文学に関する質問は、特長、作家、文化的影響など、文学の側面に焦点を当てています。",
+        "zh": "关于日本文学的问题集中在文学的特征、作家和文化影响等方面。",
+        "en": "Questions about Japanese literature focus on aspects such as characteristics, important authors, and cultural influences.",
+        "vi": "Các câu hỏi về văn học Nhật Bản tập trung vào các khía cạnh như đặc điểm, tác giả quan trọng và ảnh hưởng văn hóa."
+      },
+      "elements": [
+        {
+          "ja": "日本文学の特徴を説明する",
+          "zh": "描述日本文学的特点",
+          "en": "Describe the characteristics of Japanese literature",
+          "vi": "Mô tả đặc điểm của văn học Nhật Bản"
+        },
+        {
+          "ja": "重要な作家を挙げる",
+          "zh": "列举重要的作家",
+          "en": "List important authors",
+          "vi": "Liệt kê các tác giả quan trọng"
+        },
+        {
+          "ja": "主要な文化的影響を識別する",
+          "zh": "识别主要的文化影响",
+          "en": "Identify major cultural influences",
+          "vi": "Xác định những ảnh hưởng văn hóa chính"
+        }
+      ],
+      "common_traps": {
+        "ja": "質問の文脈を誤解すること。特に、特性と影響を混同しないように。",
+        "zh": "误解问题的上下文，尤其要注意区分特征与影响。",
+        "en": "Misunderstanding the context of the question, particularly confusing characteristics with influences.",
+        "vi": "Hiểu sai ngữ cảnh câu hỏi, đặc biệt là nhầm lẫn giữa đặc điểm với ảnh hưởng."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "日本や世界に関する地理的、経済的な問題について答える力",
+        "zh": "回答与日本及全球地理和经济问题相关的能力",
+        "en": "The ability to answer questions related to geographical and economic issues concerning Japan and the world",
+        "vi": "Khả năng trả lời các câu hỏi liên quan đến các vấn đề địa lý và kinh tế của Nhật Bản và thế giới"
+      },
+      "core_rule": {
+        "ja": "与えられた情報を元に論理的に考え、求められた答えを導く",
+        "zh": "根据提供的信息进行逻辑推理，得出所需的答案",
+        "en": "Use the provided information to think logically and derive the required answers",
+        "vi": "Sử dụng thông tin được cung cấp để suy luận logic và đưa ra câu trả lời cần thiết"
+      },
+      "elements": [
+        {
+          "ja": "問題のテーマを理解するために、文章やデータを注意深く読み取る。",
+          "zh": "仔细阅读文章或数据以理解问题的主题。",
+          "en": "Carefully read the text or data to understand the theme of the question.",
+          "vi": "Đọc kỹ văn bản hoặc dữ liệu để hiểu chủ đề của câu hỏi."
+        },
+        {
+          "ja": "具体的な質問に対応するための必要な情報を見つけ出す。",
+          "zh": "找出回答特定问题所需的信息。",
+          "en": "Identify the necessary information to address specific questions.",
+          "vi": "Xác định thông tin cần thiết để giải quyết các câu hỏi cụ thể."
+        },
+        {
+          "ja": "得られた情報をもとに、論理的に考察し、結論を導く。",
+          "zh": "基于获得的信息进行逻辑推理，并得出结论。",
+          "en": "Conduct logical reasoning based on the obtained information and draw conclusions.",
+          "vi": "Tiến hành suy luận logic dựa trên thông tin đã thu thập và rút ra kết luận."
+        }
+      ],
+      "common_traps": {
+        "ja": "情報を誤解したり、質問の意図を取り違えたりしないこと。",
+        "zh": "误解信息或误解问题的意图。",
+        "en": "Misunderstanding the information or misunderstanding the intent of the question.",
+        "vi": "Hiểu sai thông tin hoặc hiểu nhầm ý định của câu hỏi."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "論理的推論",
+        "zh": "逻辑推理",
+        "en": "Logical Reasoning",
+        "vi": "Lập luận logic"
+      },
+      "core_rule": {
+        "ja": "与えられた情報を基にし、論理的に結論を導き出す。",
+        "zh": "根据提供的信息，逻辑地推导出结论。",
+        "en": "Derive conclusions logically based on the given information.",
+        "vi": "Rút ra kết luận một cách logic dựa trên thông tin đã cho."
+      },
+      "elements": [
+        {
+          "ja": "条件を明確に理解する。",
+          "zh": "明确理解条件。",
+          "en": "Clearly understand the conditions.",
+          "vi": "Hiểu rõ các điều kiện."
+        },
+        {
+          "ja": "関連する情報を適切に整理する。",
+          "zh": "妥善整理相关信息。",
+          "en": "Organize relevant information appropriately.",
+          "vi": "Sắp xếp thông tin liên quan một cách hợp lý."
+        },
+        {
+          "ja": "選択肢を精査し、論理的な整合性を確認する。",
+          "zh": "仔细检查选项，确认逻辑一致性。",
+          "en": "Examine the options carefully and confirm logical consistency.",
+          "vi": "Kiểm tra cẩn thận các tùy chọn và xác nhận tính nhất quán logic."
+        },
+        {
+          "ja": "結果を予測し、矛盾がないか確認する。",
+          "zh": "预测结果，并检查是否存在矛盾。",
+          "en": "Predict the outcomes and check for contradictions.",
+          "vi": "Dự đoán kết quả và kiểm tra xem có mâu thuẫn hay không."
+        }
+      ],
+      "common_traps": {
+        "ja": "情報の不足や誤解に基づいて結論づけること。",
+        "zh": "基于信息不足或误解得出结论。",
+        "en": "Drawing conclusions based on insufficient information or misunderstandings.",
+        "vi": "Kết luận dựa trên thông tin không đủ hoặc hiểu lầm."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "20世紀及び第一次世界大戦後の国際関係",
+        "zh": "20世纪及第一次世界大战后的国际关系",
+        "en": "20th Century and Post-World War I International Relations",
+        "vi": "Quan hệ quốc tế thế kỷ 20 và sau Thế chiến I"
+      },
+      "core_rule": {
+        "ja": "与えられた選択肢の中から最も適切な記述を選ぶ。",
+        "zh": "从给定的选项中选择最合适的描述。",
+        "en": "Select the most appropriate description from the given options.",
+        "vi": "Chọn mô tả phù hợp nhất từ các tùy chọn đã cho."
+      },
+      "elements": [
+        {
+          "ja": "問題文が指す歴史的な事件や流れを理解すること。",
+          "zh": "理解问题所指的历史事件或趋势。",
+          "en": "Understand the historical events or trends referred to in the question.",
+          "vi": "Hiểu các sự kiện lịch sử hoặc xu hướng mà câu hỏi đề cập đến."
+        },
+        {
+          "ja": "選択肢の内容が正確かつ関連性があるかを確認すること。",
+          "zh": "检查选项内容是否准确且相关。",
+          "en": "Verify that the option contents are accurate and relevant.",
+          "vi": "Kiểm tra nội dung các lựa chọn có chính xác và có liên quan không."
+        },
+        {
+          "ja": "歴史的文脈に基づいた論理的思考を行うこと。",
+          "zh": "进行基于历史背景的逻辑推理。",
+          "en": "Engage in logical reasoning based on historical context.",
+          "vi": "Thực hiện lý luận logic dựa trên bối cảnh lịch sử."
+        }
+      ],
+      "common_traps": {
+        "ja": "選択肢の文が一見正しいが、微妙な違いや膨張を伴う場合がある。",
+        "zh": "选项内容看似正确，但可能有微妙的差异或夸大其词。",
+        "en": "The option descriptions may seem correct at first glance but can contain subtle differences or exaggerations.",
+        "vi": "Nội dung của các lựa chọn có vẻ đúng nhưng có thể chứa những khác biệt tinh tế hoặc phóng đại."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "戦争と平和に関する国際法の研究",
+        "zh": "关于战争与和平的国际法研究",
+        "en": "Study of international law regarding war and peace",
+        "vi": "Nghiên cứu về luật quốc tế về chiến tranh và hòa bình"
+      },
+      "core_rule": {
+        "ja": "国際法における権利と介入の原則を理解すること",
+        "zh": "理解国际法中权利和干预的原则",
+        "en": "Understand the principles of rights and intervention in international law",
+        "vi": "Hiểu các nguyên tắc về quyền và can thiệp trong luật quốc tế"
+      },
+      "elements": [
+        {
+          "ja": "国家の自衛権の概念を学ぶ",
+          "zh": "学习国家自卫权的概念",
+          "en": "Learn the concept of national self-defense rights",
+          "vi": "Nắm vững khái niệm quyền tự vệ quốc gia"
+        },
+        {
+          "ja": "人道的介入の歴史的背景を考察する",
+          "zh": "考察人道介入的历史背景",
+          "en": "Examine the historical background of humanitarian intervention",
+          "vi": "Xem xét bối cảnh lịch sử của can thiệp nhân đạo"
+        },
+        {
+          "ja": "国際法における武力行使の条件を理解する",
+          "zh": "理解国际法中武力使用的条件",
+          "en": "Understand the conditions for the use of force in international law",
+          "vi": "Hiểu các điều kiện cho việc sử dụng lực lượng trong luật quốc tế"
+        }
+      ],
+      "common_traps": {
+        "ja": "概念や歴史的事例の誤解に注意すること",
+        "zh": "注意对概念和历史案例的误解",
+        "en": "Be aware of misunderstandings of concepts and historical cases",
+        "vi": "Chú ý đến những hiểu lầm về các khái niệm và trường hợp lịch sử"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "日本の歴史に関連する重要な国際条約や同盟の理解",
+        "zh": "理解与日本历史相关的重要国际条约和同盟",
+        "en": "Understanding key international treaties and alliances related to Japanese history",
+        "vi": "Hiểu các hiệp ước và liên minh quốc tế quan trọng liên quan đến lịch sử Nhật Bản"
+      },
+      "core_rule": {
+        "ja": "歴史的な文脈を踏まえて、条約や同盟の主な目的や影響を評価すること",
+        "zh": "在历史背景下评估条约或同盟的主要目标和影响",
+        "en": "Evaluate the main objectives and impacts of treaties or alliances within their historical context",
+        "vi": "Đánh giá các mục tiêu chính và ảnh hưởng của các hiệp ước hoặc liên minh trong bối cảnh lịch sử của chúng"
+      },
+      "elements": [
+        {
+          "ja": "条約または同盟の成立年と背景",
+          "zh": "条约或同盟的成立年份及背景",
+          "en": "Establishment year and background of the treaty or alliance",
+          "vi": "Năm thành lập và bối cảnh của hiệp ước hoặc liên minh"
+        },
+        {
+          "ja": "当該条約または同盟が解決しようとした問題",
+          "zh": "该条约或同盟试图解决的问题",
+          "en": "Issues that the treaty or alliance aimed to address",
+          "vi": "Các vấn đề mà hiệp ước hoặc liên minh nhằm giải quyết"
+        },
+        {
+          "ja": "条約または同盟の当時の国際状況への影響",
+          "zh": "条约或同盟对当时国际形势的影响",
+          "en": "Impact of the treaty or alliance on the contemporary international situation",
+          "vi": "Tác động của hiệp ước hoặc liên minh đến tình hình quốc tế đương thời"
+        },
+        {
+          "ja": "条約または同盟の結果および後続の歴史への影響",
+          "zh": "条约或同盟的后果及对后续历史的影响",
+          "en": "Consequences of the treaty or alliance and its effects on subsequent history",
+          "vi": "Hệ quả của hiệp ước hoặc liên minh và ảnh hưởng của nó đến lịch sử tiếp theo"
+        }
+      ],
+      "common_traps": {
+        "ja": "具体的な日付や詳細についての誤解や過去の出来事の混同",
+        "zh": "对具体日期或细节的误解以及混淆过去的事件",
+        "en": "Misunderstanding specific dates or details and confusing past events",
+        "vi": "Hiểu sai về ngày tháng cụ thể hoặc chi tiết và nhầm lẫn các sự kiện trong quá khứ"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "日本の首都",
+        "zh": "日本的首都",
+        "en": "Capital of Japan",
+        "vi": "Thủ đô của Nhật Bản"
+      },
+      "core_rule": {
+        "ja": "質問に対する正確な答えを提供すること",
+        "zh": "提供问题的准确答案",
+        "en": "Provide an accurate answer to the question",
+        "vi": "Cung cấp câu trả lời chính xác cho câu hỏi"
+      },
+      "elements": [
+        {
+          "ja": "東京都",
+          "zh": "东京都",
+          "en": "Tokyo",
+          "vi": "Tokyo"
+        }
+      ],
+      "common_traps": {
+        "ja": "誤った答えを選ぶこと（例：他の都市名）",
+        "zh": "选择错误的答案（例如：其他城市名）",
+        "en": "Choosing an incorrect answer (e.g., names of other cities)",
+        "vi": "Chọn câu trả lời sai (ví dụ: tên các thành phố khác)"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "会話を理解し、意図や情報を抽出すること",
+        "zh": "理解对话并提取意图和信息",
+        "en": "Understanding the conversation and extracting intentions and information",
+        "vi": "Hiểu cuộc hội thoại và trích xuất ý định cũng như thông tin"
+      },
+      "core_rule": {
+        "ja": "会話内容に基づいて質問に答える",
+        "zh": "根据对话内容回答问题",
+        "en": "Answer questions based on the content of the conversation",
+        "vi": "Trả lời các câu hỏi dựa trên nội dung cuộc hội thoại"
+      },
+      "elements": [
+        {
+          "ja": "会話の主題を特定する",
+          "zh": "确定对话的主题",
+          "en": "Identify the main topic of the conversation",
+          "vi": "Xác định chủ đề chính của cuộc hội thoại"
+        },
+        {
+          "ja": "登場人物の関係を理解する",
+          "zh": "理解角色之间的关系",
+          "en": "Understand the relationship between the characters",
+          "vi": "Hiểu mối quan hệ giữa các nhân vật"
+        },
+        {
+          "ja": "質問の形式を正確に理解する",
+          "zh": "准确理解问题的形式",
+          "en": "Accurately understand the format of the questions",
+          "vi": "Hiểu chính xác định dạng của các câu hỏi"
+        },
+        {
+          "ja": "情報を適切に分析する",
+          "zh": "恰当分析信息",
+          "en": "Appropriately analyze the information",
+          "vi": "Phân tích thông tin một cách hợp lý"
+        }
+      ],
+      "common_traps": {
+        "ja": "詳細を見落とすことや、意図を誤解すること",
+        "zh": "忽视细节或误解意图",
+        "en": "Overlooking details or misunderstanding intentions",
+        "vi": "Bỏ qua chi tiết hoặc hiểu lầm ý định"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "ドイツの社会学、政治、歴史の重要な人物及び理論についての理解",
+        "zh": "对德国社会学、政治和历史重要人物及理论的理解",
+        "en": "Understanding key figures and theories in German sociology, politics, and history",
+        "vi": "Hiểu biết về các nhân vật và lý thuyết quan trọng trong xã hội học, chính trị và lịch sử Đức"
+      },
+      "core_rule": {
+        "ja": "歴史的文脈と重要人物の役割を関連付けて理解すること",
+        "zh": "将历史背景与重要人物的角色联系起来理解",
+        "en": "Connecting historical context to understand the roles of key figures",
+        "vi": "Kết nối bối cảnh lịch sử để hiểu vai trò của các nhân vật quan trọng"
+      },
+      "elements": [
+        {
+          "ja": "知識の確認（例：特定の理論や政策に関する質問）",
+          "zh": "知识确认（例如：关于特定理论或政策的问题）",
+          "en": "Knowledge verification (e.g., questions about specific theories or policies)",
+          "vi": "Xác nhận kiến thức (ví dụ: câu hỏi về các lý thuyết hoặc chính sách cụ thể)"
+        },
+        {
+          "ja": "文脈理解（例：歴史的背景や影響を考慮）",
+          "zh": "上下文理解（例如：考虑历史背景和影响）",
+          "en": "Contextual understanding (e.g., considering historical background and impact)",
+          "vi": "Hiểu biết về bối cảnh (ví dụ: xem xét bối cảnh lịch sử và tác động)"
+        },
+        {
+          "ja": "関連情報の統合（例：人物の業績やその影響を組み合わせる）",
+          "zh": "相关信息整合（例如：结合人物的成就及其影响）",
+          "en": "Integration of related information (e.g., combining achievements and their impacts)",
+          "vi": "Tích hợp thông tin liên quan (ví dụ: kết hợp thành tựu và tác động của chúng)"
+        }
+      ],
+      "common_traps": {
+        "ja": "文脈を無視して単なる記憶に依存すること",
+        "zh": "忽视上下文，仅依赖记忆",
+        "en": "Ignoring context and relying solely on memory",
+        "vi": "Bỏ qua bối cảnh và chỉ dựa vào trí nhớ"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "多文化主義",
+        "zh": "多元文化主义",
+        "en": "Multiculturalism",
+        "vi": "Đa văn hóa"
+      },
+      "core_rule": {
+        "ja": "国の政策や国家の特性を理解し、それに基づいて選択肢を評価すること",
+        "zh": "理解国家的政策和特性，并基于此评估选项",
+        "en": "Understand a nation's policy or characteristics and evaluate options based on that",
+        "vi": "Hiểu chính sách hoặc đặc điểm của một quốc gia và đánh giá các lựa chọn dựa trên điều đó"
+      },
+      "elements": [
+        {
+          "ja": "国の政策の明確さ",
+          "zh": "国家政策的明确性",
+          "en": "Clarity of national policies",
+          "vi": "Sự rõ ràng của chính sách quốc gia"
+        },
+        {
+          "ja": "国家の歴史的背景",
+          "zh": "国家的历史背景",
+          "en": "Historical background of the nation",
+          "vi": "Bối cảnh lịch sử của quốc gia"
+        },
+        {
+          "ja": "文化的な多様性の有無",
+          "zh": "文化多样性的存在",
+          "en": "Existence of cultural diversity",
+          "vi": "Sự tồn tại của đa dạng văn hóa"
+        }
+      ],
+      "common_traps": {
+        "ja": "具体例に注意しすぎて一般的なルールを見失うこと",
+        "zh": "过于关注具体例子而忽视一般规则",
+        "en": "Focusing too much on specific examples and losing sight of general rules",
+        "vi": "Quá chú ý đến các ví dụ cụ thể mà bỏ qua quy tắc chung"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "類似の問題",
+        "zh": "相似问题",
+        "en": "Similar Questions",
+        "vi": "Các câu hỏi tương tự"
+      },
+      "core_rule": {
+        "ja": "問題の本質を理解し、共通の原則に基づいて解決する。",
+        "zh": "理解问题的本质，并基于共同原则进行解决。",
+        "en": "Understand the essence of the problem and solve it based on shared principles.",
+        "vi": "Hiểu bản chất của vấn đề và giải quyết dựa trên các nguyên tắc chung."
+      },
+      "elements": [
+        {
+          "ja": "問題の要件を明確にする。",
+          "zh": "明确问题的要求。",
+          "en": "Clarify the requirements of the question.",
+          "vi": "Rà soát yêu cầu của câu hỏi."
+        },
+        {
+          "ja": "与えられた情報を整理する。",
+          "zh": "整理所提供的信息。",
+          "en": "Organize the provided information.",
+          "vi": "Sắp xếp thông tin đã cho."
+        },
+        {
+          "ja": "類似する過去の問題を考慮する。",
+          "zh": "考虑类似的过去问题。",
+          "en": "Consider similar past problems.",
+          "vi": "Cân nhắc các vấn đề tương tự trong quá khứ."
+        }
+      ],
+      "common_traps": {
+        "ja": "選択肢の表面だけでなく、根本的な意味を見落とすこと。",
+        "zh": "忽视选项的表面以外的根本意义。",
+        "en": "Overlooking the fundamental meaning beyond the surface of the choices.",
+        "vi": "Bỏ qua ý nghĩa cơ bản ngoài bề mặt của các lựa chọn."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "フランス革命とナポレオンの影響に関する理解",
+        "zh": "对法国革命和拿破仑影响的理解",
+        "en": "Understanding the impact of the French Revolution and Napoleon",
+        "vi": "Hiểu về tác động của Cách mạng Pháp và Napoleon"
+      },
+      "core_rule": {
+        "ja": "歴史的出来事の因果関係を特定し、その結果を評価する。",
+        "zh": "确定历史事件的因果关系并评估其结果。",
+        "en": "Identify the causal relationships of historical events and evaluate their outcomes.",
+        "vi": "Xác định mối quan hệ nguyên nhân của các sự kiện lịch sử và đánh giá kết quả của chúng."
+      },
+      "elements": [
+        {
+          "ja": "ナポレオンの改革と政策",
+          "zh": "拿破仑的改革和政策",
+          "en": "Napoleon's reforms and policies",
+          "vi": "Cải cách và chính sách của Napoleon"
+        },
+        {
+          "ja": "ウィーン会議の目的と結果",
+          "zh": "维也纳会议的目的和结果",
+          "en": "Objectives and outcomes of the Congress of Vienna",
+          "vi": "Mục tiêu và kết quả của Hội nghị Vienna"
+        },
+        {
+          "ja": "フランス革命からナポレオン戦争への流れ",
+          "zh": "从法国革命到拿破仑战争的历史脉络",
+          "en": "Historical flow from the French Revolution to the Napoleonic Wars",
+          "vi": "Dòng lịch sử từ Cách mạng Pháp đến các cuộc chiến tranh Napoleon"
+        },
+        {
+          "ja": "国際関係への影響",
+          "zh": "对国际关系的影响",
+          "en": "Impact on international relations",
+          "vi": "Tác động đến quan hệ quốc tế"
+        }
+      ],
+      "common_traps": {
+        "ja": "形式的な知識や単語の記憶に頼りすぎて、因果関係や影響に関する深い理解を欠く。",
+        "zh": "过于依赖形式知识或单词记忆，而缺乏对因果关系和影响的深入理解。",
+        "en": "Relying too much on surface knowledge or memorization, lacking a deep understanding of causal relationships and impacts.",
+        "vi": "Quá phụ thuộc vào kiến thức bề mặt hoặc ghi nhớ, thiếu hiểu biết sâu sắc về mối quan hệ nguyên nhân và tác động."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "文中の空欄に適切な語を選ぶ力",
+        "zh": "选择文章中适当的词汇填入空白处的能力",
+        "en": "The ability to select appropriate words to fill in blanks in a text",
+        "vi": "Khả năng chọn từ thích hợp để điền vào chỗ trống trong văn bản"
+      },
+      "core_rule": {
+        "ja": "文脈に基づいて空欄に最も適した語を選ぶこと。",
+        "zh": "根据上下文选择最合适的词填写空白。",
+        "en": "Choose the most suitable word based on the context to fill in the blank.",
+        "vi": "Chọn từ thích hợp nhất dựa trên ngữ cảnh để điền vào chỗ trống."
+      },
+      "elements": [
+        {
+          "ja": "文全体を理解すること。",
+          "zh": "理解整篇文章。",
+          "en": "Understanding the entire text.",
+          "vi": "Hiểu toàn bộ văn bản."
+        },
+        {
+          "ja": "空欄の前後の文脈を考慮すること。",
+          "zh": "考虑空白前后的上下文。",
+          "en": "Considering the context before and after the blank.",
+          "vi": "Xem xét ngữ cảnh trước và sau chỗ trống."
+        },
+        {
+          "ja": "選択肢を評価して、最も文脈に合った単語を選ぶこと。",
+          "zh": "评估选项并选择最适合上下文的单词。",
+          "en": "Evaluating the options and selecting the word that fits best in context.",
+          "vi": "Đánh giá các lựa chọn và chọn từ phù hợp nhất với ngữ cảnh."
+        }
+      ],
+      "common_traps": {
+        "ja": "同義語を誤解すること。",
+        "zh": "误解同义词。",
+        "en": "Misunderstanding synonyms.",
+        "vi": "Hiểu lầm từ đồng nghĩa."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "国際連合と国際連盟の目的",
+        "zh": "联合国和国际联盟的目的",
+        "en": "Objectives of the United Nations and the League of Nations",
+        "vi": "Mục tiêu của Liên Hợp Quốc và Liên minh Quốc tế"
+      },
+      "core_rule": {
+        "ja": "国際連合や国際連盟の目的を理解し、正確に答える。",
+        "zh": "理解联合国和国际联盟的目的并准确回答。",
+        "en": "Understand the purposes of the United Nations and the League of Nations and respond accurately.",
+        "vi": "Hiểu mục tiêu của Liên Hợp Quốc và Liên minh Quốc tế và trả lời một cách chính xác."
+      },
+      "elements": [
+        {
+          "ja": "国際連合の目的に関する知識",
+          "zh": "关于联合国目的的知识",
+          "en": "Knowledge of the objectives of the United Nations",
+          "vi": "Kiến thức về mục tiêu của Liên Hợp Quốc"
+        },
+        {
+          "ja": "国際連盟の目的に関する知識",
+          "zh": "关于国际联盟目的的知识",
+          "en": "Knowledge of the objectives of the League of Nations",
+          "vi": "Kiến thức về mục tiêu của Liên minh Quốc tế"
+        },
+        {
+          "ja": "正誤を判断する能力",
+          "zh": "判断正误的能力",
+          "en": "Ability to assess true or false",
+          "vi": "Khả năng đánh giá đúng hay sai"
+        }
+      ],
+      "common_traps": {
+        "ja": "目的以外の情報に惑わされること。",
+        "zh": "被目的之外的信息所误导。",
+        "en": "Being misled by information outside the objectives.",
+        "vi": "Bị đánh lừa bởi thông tin không liên quan đến mục tiêu."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "日本の地理的特徴と人口に関連する問題",
+        "zh": "与日本的地理特征和人口相关的问题",
+        "en": "Questions related to Japan's geographical features and population",
+        "vi": "Câu hỏi liên quan đến đặc điểm địa lý và dân số của Nhật Bản"
+      },
+      "core_rule": {
+        "ja": "日本の主な地理的特徴や人口統計を理解し、それに基づいて質問に答えること",
+        "zh": "理解日本的主要地理特征和人口统计，并根据此回答问题",
+        "en": "Understand Japan's key geographical features and demographics to answer the questions",
+        "vi": "Hiểu các đặc điểm địa lý và thống kê dân số chính của Nhật Bản để trả lời các câu hỏi"
+      },
+      "elements": [
+        {
+          "ja": "日本の地理的特徴、特に山地の割合",
+          "zh": "日本的地理特征，特别是山地的比例",
+          "en": "Japan's geographical features, especially the proportion of mountainous areas",
+          "vi": "Các đặc điểm địa lý của Nhật Bản, đặc biệt là tỷ lệ vùng núi"
+        },
+        {
+          "ja": "日本の主要な都市とその位置",
+          "zh": "日本主要城市及其位置",
+          "en": "Major cities in Japan and their locations",
+          "vi": "Các thành phố lớn ở Nhật Bản và vị trí của chúng"
+        },
+        {
+          "ja": "国土の面積と人口数の比較",
+          "zh": "国土面积和人口数量的比较",
+          "en": "Comparison of land area and population numbers",
+          "vi": "So sánh diện tích đất và số dân"
+        }
+      ],
+      "common_traps": {
+        "ja": "地理的特徴に関する詳細を忘れること、または他の国の事例と混同すること",
+        "zh": "忘记地理特征的详细信息或与其他国家的例子混淆",
+        "en": "Forgetting the details of geographical features or confusing with examples from other countries",
+        "vi": "Quên đi chi tiết về các đặc điểm địa lý hoặc nhầm lẫn với ví dụ từ các quốc gia khác"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "日本の刑事裁判",
+        "zh": "日本的刑事诉讼",
+        "en": "Japanese Criminal Trials",
+        "vi": "Các phiên tòa hình sự ở Nhật Bản"
+      },
+      "core_rule": {
+        "ja": "文章を正しく読み解き，問われている内容に応じた答えを導き出すこと。",
+        "zh": "正确理解文章，并根据所提问题找出相应的答案。",
+        "en": "Read the text carefully and derive answers based on the questions asked.",
+        "vi": "Đọc hiểu bài văn và rút ra câu trả lời dựa trên các câu hỏi được đặt ra."
+      },
+      "elements": [
+        {
+          "ja": "文章の要約",
+          "zh": "文章的概要",
+          "en": "Summarization of the text",
+          "vi": "Tóm tắt văn bản"
+        },
+        {
+          "ja": "関連する法的概念",
+          "zh": "相关法律概念",
+          "en": "Related legal concepts",
+          "vi": "Khái niệm pháp lý liên quan"
+        },
+        {
+          "ja": "具体的な事例や判例",
+          "zh": "具体案例或判例",
+          "en": "Specific cases or precedents",
+          "vi": "Các trường hợp hoặc tiền lệ cụ thể"
+        },
+        {
+          "ja": "質問の意図を理解すること",
+          "zh": "理解问题的意图",
+          "en": "Understanding the intent of the questions",
+          "vi": "Hiểu ý định của các câu hỏi"
+        }
+      ],
+      "common_traps": {
+        "ja": "問いに対する答えを正確に読み取らず、一般的な知識や感覚だけに頼ること。",
+        "zh": "不准确地理解问题的答案，仅仅依赖一般知识或感觉。",
+        "en": "Misinterpreting the questions and relying solely on general knowledge or intuition.",
+        "vi": "Hiểu sai các câu hỏi và chỉ dựa vào kiến thức chung hoặc trực giác."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "年代順に並べ替えること",
+        "zh": "按年代排序",
+        "en": "Sorting in chronological order",
+        "vi": "Sắp xếp theo thứ tự thời gian"
+      },
+      "core_rule": {
+        "ja": "与えられた出来事や機関を年代や設立順に正しく並べる必要がある。",
+        "zh": "需要正确按时间或建立的顺序排列给定的事件或机构。",
+        "en": "It is necessary to correctly arrange the given events or organizations in chronological or establishment order.",
+        "vi": "Cần sắp xếp chính xác các sự kiện hoặc tổ chức đã cho theo thứ tự thời gian hoặc theo thứ tự thành lập."
+      },
+      "elements": [
+        {
+          "ja": "出来事A",
+          "zh": "事件A",
+          "en": "Event A",
+          "vi": "Sự kiện A"
+        },
+        {
+          "ja": "出来事B",
+          "zh": "事件B",
+          "en": "Event B",
+          "vi": "Sự kiện B"
+        },
+        {
+          "ja": "出来事C",
+          "zh": "事件C",
+          "en": "Event C",
+          "vi": "Sự kiện C"
+        },
+        {
+          "ja": "出来事D",
+          "zh": "事件D",
+          "en": "Event D",
+          "vi": "Sự kiện D"
+        }
+      ],
+      "common_traps": {
+        "ja": "出来事を年代や設立順に間違って解釈すること。",
+        "zh": "错误地解释事件的时间或建立顺序。",
+        "en": "Misinterpreting the chronological or establishment order of events.",
+        "vi": "Hiểu sai thứ tự thời gian hoặc thứ tự thành lập của các sự kiện."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "日本の戦後改革と地方自治に関する法律、および農地改革を中心に理解すること。",
+        "zh": "了解日本战后改革、地方自治法律和土地改革的关系。",
+        "en": "Understanding the relationship between post-war reforms in Japan, local autonomy laws, and land reform initiatives.",
+        "vi": "Hiểu mối quan hệ giữa cải cách sau chiến tranh ở Nhật Bản, luật tự trị địa phương và các sáng kiến cải cách ruộng đất."
+      },
+      "core_rule": {
+        "ja": "日本の戦後改革は、ほぼ同時期に法制度や行政事務（地方自治）に重要な影響を与えた。",
+        "zh": "日本的战后改革几乎在同一时期对法律制度和行政事务（地方自治）产生了重要影响。",
+        "en": "Post-war reforms in Japan had significant impacts on legal systems and administrative matters (local autonomy) during a similar timeframe.",
+        "vi": "Các cải cách sau chiến tranh ở Nhật Bản đã có ảnh hưởng đáng kể đến hệ thống pháp luật và các vấn đề hành chính (tự trị địa phương) trong cùng một khoảng thời gian."
+      },
+      "elements": [
+        {
+          "ja": "1947年に成立した地方自治法",
+          "zh": "1947年通过的地方自治法",
+          "en": "The Local Autonomy Law enacted in 1947",
+          "vi": "Luật Tự trị địa phương được ban hành năm 1947"
+        },
+        {
+          "ja": "法定受託事務と自治事務の区別",
+          "zh": "法定受托事务和自治事务的区分",
+          "en": "Distinction between statutory entrusted tasks and self-governing tasks",
+          "vi": "Sự phân biệt giữa các nhiệm vụ được ủy nhiệm theo luật và các nhiệm vụ tự quản"
+        },
+        {
+          "ja": "農地改革の目的と影響",
+          "zh": "土地改革的目的和影响",
+          "en": "Objectives and impacts of land reform",
+          "vi": "Mục tiêu và ảnh hưởng của cải cách ruộng đất"
+        }
+      ],
+      "common_traps": {
+        "ja": "具体的な事例にとらわれすぎ、全体の文脈を見失うこと。",
+        "zh": "过于关注具体案例，失去整体上下文。",
+        "en": "Focusing too much on specific examples and losing sight of the overall context.",
+        "vi": "Quá chú trọng vào các ví dụ cụ thể và đánh mất ngữ cảnh tổng thể."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "1848年の諸革命と19世紀のヨーロッパの歴史",
+        "zh": "1848年的多国革命与19世纪欧洲的历史",
+        "en": "The 1848 Revolutions and 19th Century European History",
+        "vi": "Cách mạng năm 1848 và Lịch sử châu Âu thế kỷ 19"
+      },
+      "core_rule": {
+        "ja": "与えられた情報から正確な歴史的事実を選び出すこと。",
+        "zh": "从给出的信息中准确选择历史事实。",
+        "en": "Choose the correct historical fact from the given information.",
+        "vi": "Chọn sự thật lịch sử chính xác từ thông tin được đưa ra."
+      },
+      "elements": [
+        {
+          "ja": "1848年の諸革命の原因となった要素の理解",
+          "zh": "理解导致1848年革命的因素",
+          "en": "Understanding the factors that led to the 1848 revolutions",
+          "vi": "Hiểu các yếu tố dẫn đến cuộc cách mạng năm 1848"
+        },
+        {
+          "ja": "ナショナリズムと自由主義の影響",
+          "zh": "民族主义和自由主义的影响",
+          "en": "The influence of nationalism and liberalism",
+          "vi": "Ảnh hưởng của chủ nghĩa dân tộc và tự do"
+        },
+        {
+          "ja": "各国の状況や反応の分析",
+          "zh": "各国情况及其反应的分析",
+          "en": "Analysis of the situations and responses of various countries",
+          "vi": "Phân tích tình hình và phản ứng của các nước khác nhau"
+        }
+      ],
+      "common_traps": {
+        "ja": "歴史的背景を無視して、単純な事実を誤解すること。",
+        "zh": "忽视历史背景，误解简单的事实。",
+        "en": "Misunderstanding simple facts while ignoring historical context.",
+        "vi": "Hiểu sai sự thật đơn giản mà bỏ qua bối cảnh lịch sử."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "19世紀末から20世紀初めにおけるアフリカの植民地化",
+        "zh": "19世纪末至20世纪初非洲的殖民化",
+        "en": "Colonization of Africa from the late 19th century to the early 20th century",
+        "vi": "Sự thực dân hóa Châu Phi từ cuối thế kỷ 19 đến đầu thế kỷ 20"
+      },
+      "core_rule": {
+        "ja": "歴史的な出来事を正確に理解し、文脈を考慮して問題を解くこと。",
+        "zh": "准确理解历史事件，并考虑上下文来解题。",
+        "en": "Accurately understand historical events and consider the context in solving the questions.",
+        "vi": "Hiểu đúng các sự kiện lịch sử và xem xét bối cảnh khi giải quyết các câu hỏi."
+      },
+      "elements": [
+        {
+          "ja": "19世紀末から20世紀初めのアフリカの歴史的背景を理解すること。",
+          "zh": "理解19世纪末到20世纪初的非洲历史背景。",
+          "en": "Understand the historical context of Africa from the late 19th century to the early 20th century.",
+          "vi": "Hiểu bối cảnh lịch sử của Châu Phi từ cuối thế kỷ 19 đến đầu thế kỷ 20."
+        },
+        {
+          "ja": "植民地化の過程とその影響を評価すること。",
+          "zh": "评估殖民化的过程及其影响。",
+          "en": "Evaluate the process and impact of colonization.",
+          "vi": "Đánh giá quá trình và tác động của sự thực dân hóa."
+        },
+        {
+          "ja": "与えられた選択肢を慎重に分析して、最も適当なものを選ぶ。",
+          "zh": "仔细分析给定的选项，选择最合适的。",
+          "en": "Carefully analyze the given options to select the most appropriate one.",
+          "vi": "Phân tích cẩn thận các tùy chọn được đưa ra để chọn lựa cái phù hợp nhất."
+        }
+      ],
+      "common_traps": {
+        "ja": "表面的な事実や感情的な意見に流されてしまうこと。",
+        "zh": "被表面的事实或情感观点误导。",
+        "en": "Getting distracted by superficial facts or emotional opinions.",
+        "vi": "Bị đánh lừa bởi những sự thật bề ngoài hoặc ý kiến cảm tính."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "第一次世界大戦後の歴史的な出来事や変遷",
+        "zh": "第一次世界大战后的历史事件和变迁",
+        "en": "Historical events and changes after World War I",
+        "vi": "Sự kiện lịch sử và biến chuyển sau Thế chiến thứ nhất"
+      },
+      "core_rule": {
+        "ja": "与えられた時代に関連する出来事を特定し、それらを選択肢の中から識別する。",
+        "zh": "确定与给定时代相关的事件，并在选项中识别它们。",
+        "en": "Identify events related to the specified era and distinguish them from the options provided.",
+        "vi": "Xác định các sự kiện liên quan đến thời kỳ được chỉ định và phân biệt chúng trong các tùy chọn được cung cấp."
+      },
+      "elements": [
+        {
+          "ja": "指定された年代の歴史的文脈を理解する",
+          "zh": "理解指定年代的历史背景",
+          "en": "Understand the historical context of the specified era",
+          "vi": "Hiểu bối cảnh lịch sử của thời kỳ được chỉ định"
+        },
+        {
+          "ja": "選択肢を他の時代の出来事と比較する",
+          "zh": "将选项与其他时代的事件进行比较",
+          "en": "Compare options with events from other eras",
+          "vi": "So sánh các tùy chọn với các sự kiện từ các thời kỳ khác"
+        },
+        {
+          "ja": "キーワードや重要な年を特定する",
+          "zh": "确定关键词和重要年份",
+          "en": "Identify keywords and important years",
+          "vi": "Xác định các từ khóa và năm quan trọng"
+        },
+        {
+          "ja": "出来事の因果関係を考慮する",
+          "zh": "考虑事件之间的因果关系",
+          "en": "Consider the causal relationships between events",
+          "vi": "Xem xét các mối quan hệ nguyên nhân giữa các sự kiện"
+        }
+      ],
+      "common_traps": {
+        "ja": "時代や国を誤って認識し、関連のない出来事を選ぶこと。",
+        "zh": "错误地识别时代或国家，选择不相关的事件。",
+        "en": "Incorrectly identifying the era or country and selecting irrelevant events.",
+        "vi": "Nhận diện sai thời kỳ hoặc quốc gia và chọn các sự kiện không liên quan."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "日本の経済制度に関する問題",
+        "zh": "关于日本经济制度的问题",
+        "en": "Questions related to the economic system of Japan",
+        "vi": "Câu hỏi liên quan đến hệ thống kinh tế của Nhật Bản"
+      },
+      "core_rule": {
+        "ja": "与えられた選択肢から正しい情報または誤った情報を特定する。",
+        "zh": "从给出的选项中识别正确信息或错误信息。",
+        "en": "Identify correct or incorrect information from the given options.",
+        "vi": "Xác định thông tin đúng hoặc sai từ các tùy chọn đã cho."
+      },
+      "elements": [
+        {
+          "ja": "問題文を注意深く読み、焦点を明確にする。",
+          "zh": "仔细阅读问题并明确焦点。",
+          "en": "Read the question carefully and clarify the focus.",
+          "vi": "Đọc câu hỏi một cách cẩn thận và làm rõ trọng tâm."
+        },
+        {
+          "ja": "各選択肢の内容を比較し、正しいか誤っているか判断する。",
+          "zh": "比较每个选项的内容，并判断其正确性或错误性。",
+          "en": "Compare the contents of each option and judge their correctness or incorrectness.",
+          "vi": "So sánh nội dung của từng tùy chọn và đánh giá tính chính xác hoặc sai lầm của chúng."
+        },
+        {
+          "ja": "用語や概念の理解を確認する。",
+          "zh": "确认对术语和概念的理解。",
+          "en": "Confirm the understanding of terms and concepts.",
+          "vi": "Xác nhận việc hiểu biết về các thuật ngữ và khái niệm."
+        },
+        {
+          "ja": "関連する背景知識を考慮する。",
+          "zh": "考虑相关的背景知识。",
+          "en": "Consider relevant background knowledge.",
+          "vi": "Xem xét kiến thức nền tảng liên quan."
+        }
+      ],
+      "common_traps": {
+        "ja": "選択肢の表現の違いに騙されやすい。",
+        "zh": "容易被选项表述的细微差别所迷惑。",
+        "en": "Easily misled by subtle differences in option expressions.",
+        "vi": "Dễ bị nhầm lẫn bởi những khác biệt tinh tế trong cách diễn đạt của các tùy chọn."
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "文を理解し、その内容に基づいて選択肢を判断する能力",
+        "zh": "理解文本内容并根据此内容判断选项的能力",
+        "en": "The ability to comprehend the text and assess the options based on its content",
+        "vi": "Khả năng hiểu văn bản và đánh giá các tùy chọn dựa trên nội dung của nó"
+      },
+      "core_rule": {
+        "ja": "文の内容を正しく把握することが必要です。",
+        "zh": "需要正确理解文本内容。",
+        "en": "It is essential to accurately grasp the content of the text.",
+        "vi": "Cần phải nắm bắt chính xác nội dung văn bản."
+      },
+      "elements": [
+        {
+          "ja": "文の主旨を理解すること",
+          "zh": "理解文本的主旨",
+          "en": "Understanding the main idea of the text",
+          "vi": "Hiểu ý chính của văn bản"
+        },
+        {
+          "ja": "選択肢を慎重に分析すること",
+          "zh": "仔细分析选项",
+          "en": "Carefully analyzing the options",
+          "vi": "Phân tích cẩn thận các lựa chọn"
+        },
+        {
+          "ja": "誤りや曖昧さを見極めること",
+          "zh": "识别错误或模糊之处",
+          "en": "Identifying errors or ambiguities",
+          "vi": "Nhận diện sai sót hoặc điều chưa rõ ràng"
+        }
+      ],
+      "common_traps": {
+        "ja": "選択肢の似たような言い回しに惑わされること",
+        "zh": "被相似措辞的选项所误导",
+        "en": "Being misled by similarly worded options",
+        "vi": "Bị đánh lừa bởi các lựa chọn có ngôn từ tương tự"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "地球環境問題とその国際的な取り組み",
+        "zh": "全球环境问题及其国际应对",
+        "en": "Global Environmental Issues and International Responses",
+        "vi": "Vấn đề môi trường toàn cầu và phản ứng quốc tế"
+      },
+      "core_rule": {
+        "ja": "地球環境問題に関する歴史的背景と国際的な協力の重要性を理解する",
+        "zh": "理解全球环境问题的历史背景及国际合作的重要性",
+        "en": "Understand the historical background of global environmental issues and the importance of international cooperation",
+        "vi": "Hiểu bối cảnh lịch sử của các vấn đề môi trường toàn cầu và tầm quan trọng của hợp tác quốc tế"
+      },
+      "elements": [
+        {
+          "ja": "オゾン層の破壊の原因と影響",
+          "zh": "臭氧层破坏的原因和影响",
+          "en": "Causes and effects of ozone layer depletion",
+          "vi": "Nguyên nhân và tác động của việc phá hủy tầng ozone"
+        },
+        {
+          "ja": "国際会議（例：地球サミット）の目的と結果",
+          "zh": "国际会议（例如：地球峰会）的目的和结果",
+          "en": "Purpose and outcomes of international conferences (e.g., Earth Summit)",
+          "vi": "Mục đích và kết quả của các hội nghị quốc tế (ví dụ: Hội nghị Đất trời)"
+        },
+        {
+          "ja": "『我ら共有』の主要なメッセージと提言",
+          "zh": "《我们共享》的主要信息和建议",
+          "en": "Key messages and recommendations of 'Our Common Future'",
+          "vi": "Thông điệp và khuyến nghị chính của 'Tương lai chung của chúng ta'"
+        }
+      ],
+      "common_traps": {
+        "ja": "表面的な理解にとどまらず、具体的な事例や影響を考慮することを忘れない",
+        "zh": "不要仅停留在表面理解，而要考虑具体的案例和影响",
+        "en": "Don't just stay at surface-level understanding; consider specific cases and impacts",
+        "vi": "Đừng chỉ dừng lại ở việc hiểu biết bề mặt; hãy xem xét các trường hợp và tác động cụ thể"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "データの理解と解釈",
+        "zh": "数据理解与解释",
+        "en": "Understanding and interpreting data",
+        "vi": "Hiểu và giải thích dữ liệu"
+      },
+      "core_rule": {
+        "ja": "与えられたデータをもとに正確な情報を引き出すこと",
+        "zh": "基于提供的数据提取准确的信息",
+        "en": "Extract accurate information based on the provided data",
+        "vi": "Rút ra thông tin chính xác dựa trên dữ liệu được cung cấp"
+      },
+      "elements": [
+        {
+          "ja": "データの種類を特定する",
+          "zh": "识别数据类型",
+          "en": "Identify the type of data",
+          "vi": "Xác định loại dữ liệu"
+        },
+        {
+          "ja": "データのトレンドやパターンを探す",
+          "zh": "寻找数据趋势和模式",
+          "en": "Look for trends and patterns in the data",
+          "vi": "Tìm kiếm xu hướng và mẫu trong dữ liệu"
+        },
+        {
+          "ja": "質問に関連する情報を抽出する",
+          "zh": "提取与问题相关的信息",
+          "en": "Extract information relevant to the question",
+          "vi": "Rút ra thông tin liên quan đến câu hỏi"
+        },
+        {
+          "ja": "導出された情報をもとに回答する",
+          "zh": "根据提取的信息进行回答",
+          "en": "Formulate an answer based on the extracted information",
+          "vi": "Hình thành câu trả lời dựa trên thông tin đã rút ra"
+        }
+      ],
+      "common_traps": {
+        "ja": "データを誤解したり、関連のない情報に基づいて判断すること",
+        "zh": "误解数据或基于不相关信息做出判断",
+        "en": "Misinterpreting data or making judgments based on irrelevant information",
+        "vi": "Hiểu sai dữ liệu hoặc đưa ra phán đoán dựa trên thông tin không liên quan"
+      },
+      "subject": ""
+    },
+    {
+      "concept": {
+        "ja": "化合物の構造と反応性",
+        "zh": "化合物的结构与反应性",
+        "en": "Structure and Reactivity of Compounds",
+        "vi": "Cấu trúc và tính phản ứng của hợp chất"
+      },
+      "core_rule": {
+        "ja": "化合物の構造特性を確認して反応性を予測する。",
+        "zh": "通过确认化合物的结构特性来预测其反应性。",
+        "en": "Predict reactivity by verifying the structural characteristics of the compound.",
+        "vi": "Dự đoán tính phản ứng bằng cách xác nhận các đặc điểm cấu trúc của hợp chất."
+      },
+      "elements": [
+        {
+          "ja": "分子式の理解",
+          "zh": "分子式的理解",
+          "en": "Understanding of Molecular Formula",
+          "vi": "Hiểu biết về công thức phân tử"
+        },
+        {
+          "ja": "異性体の識別",
+          "zh": "异构体的识别",
+          "en": "Identification of Isomers",
+          "vi": "Nhận diện đồng phân"
+        },
+        {
+          "ja": "酸化反応のメカニズム",
+          "zh": "氧化反应的机制",
+          "en": "Mechanism of Oxidation Reactions",
+          "vi": "Cơ chế của phản ứng oxy hóa"
+        },
+        {
+          "ja": "触媒の役割",
+          "zh": "催化剂的作用",
+          "en": "Role of Catalysts",
+          "vi": "Vai trò của chất xúc tác"
+        }
+      ],
+      "common_traps": {
+        "ja": "化合物の構造と反応性を誤解すること",
+        "zh": "误解化合物的结构与反应性",
+        "en": "Misunderstanding the structure and reactivity of compounds",
+        "vi": "Hiểu sai về cấu trúc và tính phản ứng của hợp chất"
+      },
+      "subject": "化学"
+    },
+    {
+      "concept": {
+        "ja": "元素の化学，特に元素の組み合わせの理解",
+        "zh": "元素化学，尤其是元素组合的理解",
+        "en": "Chemical elements, particularly understanding element combinations",
+        "vi": "Hóa học nguyên tố, đặc biệt là hiểu biết về sự kết hợp của các nguyên tố"
+      },
+      "core_rule": {
+        "ja": "正しい組み合わせや属性に基づいて選択肢を評価すること",
+        "zh": "基于正确的组合或属性来评估选项",
+        "en": "Evaluate options based on correct combinations or properties",
+        "vi": "Đánh giá các lựa chọn dựa trên sự kết hợp hoặc thuộc tính đúng"
+      },
+      "elements": [
+        {
+          "ja": "元素の記号と性質",
+          "zh": "元素符号和性质",
+          "en": "Element symbols and properties",
+          "vi": "Ký hiệu và tính chất của nguyên tố"
+        },
+        {
+          "ja": "化合物の形成法則",
+          "zh": "化合物的形成规律",
+          "en": "Laws of compound formation",
+          "vi": "Các quy luật hình thành hợp chất"
+        },
+        {
+          "ja": "周期表の理解",
+          "zh": "周期表的理解",
+          "en": "Understanding of the periodic table",
+          "vi": "Hiểu biết về bảng tuần hoàn"
+        }
+      ],
+      "common_traps": {
+        "ja": "元素の性質の誤解や、不適切な組み合わせの選択",
+        "zh": "对元素性质的误解或选择不当的组合",
+        "en": "Misunderstanding of element properties or incorrectly choosing combinations",
+        "vi": "Hiểu sai các thuộc tính của nguyên tố hoặc chọn các sự kết hợp không đúng"
+      },
+      "subject": "化学"
+    },
+    {
+      "concept": {
+        "ja": "生物の代謝過程におけるエネルギーの利用と物質の変化",
+        "zh": "生物代谢过程中的能量利用和物质变化",
+        "en": "Energy utilization and matter transformation in biological metabolic processes",
+        "vi": "Sự sử dụng năng lượng và biến đổi vật chất trong quá trình chuyển hóa sinh học"
+      },
+      "core_rule": {
+        "ja": "生物はエネルギーを捕らえ、物質を変化させる過程を持つ。光合成と化学合成はその例であり、呼吸はエネルギーを放出する。",
+        "zh": "生物具有捕获能量和变化物质的过程。光合作用和化学合成是其例子，而呼吸是释放能量的过程。",
+        "en": "Living organisms have processes to capture energy and transform matter. Photosynthesis and chemosynthesis are examples, while respiration is a process that releases energy.",
+        "vi": "Sinh vật có các quá trình để thu nhận năng lượng và biến đổi vật chất. Quang hợp và tổng hợp hóa học là những ví dụ, trong khi hô hấp là quá trình giải phóng năng lượng."
+      },
+      "elements": [
+        {
+          "ja": "光合成: 光エネルギーを利用してCO2を有機物に変える。",
+          "zh": "光合作用：利用光能将CO2转化为有机物。",
+          "en": "Photosynthesis: Using light energy to convert CO2 into organic matter.",
+          "vi": "Quang hợp: Sử dụng năng lượng ánh sáng để chuyển đổi CO2 thành chất hữu cơ."
+        },
+        {
+          "ja": "化学合成: 無機物からエネルギーを得て有機物を合成する。",
+          "zh": "化学合成：从无机物中获取能量合成有机物。",
+          "en": "Chemosynthesis: Synthesizing organic matter using energy derived from inorganic substances.",
+          "vi": "Tổng hợp hóa học: Tổng hợp chất hữu cơ bằng cách sử dụng năng lượng từ các chất vô cơ."
+        },
+        {
+          "ja": "好気呼吸: 酸素を使用し、有機物を分解してエネルギーを放出。",
+          "zh": "好氧呼吸：使用氧气，分解有机物以释放能量。",
+          "en": "Aerobic respiration: Using oxygen to break down organic matter and release energy.",
+          "vi": "Hô hấp hiếu khí: Sử dụng oxy để phân giải chất hữu cơ và giải phóng năng lượng."
+        }
+      ],
+      "common_traps": {
+        "ja": "光合成と化学合成が混同されることが多い。また、好気呼吸と嫌気呼吸の違いを理解する必要がある。",
+        "zh": "光合作用和化学合成易于混淆。此外，还需理解好氧呼吸和厌氧呼吸之间的区别。",
+        "en": "Photosynthesis and chemosynthesis are often confused. Additionally, understanding the difference between aerobic and anaerobic respiration is necessary.",
+        "vi": "Quang hợp và tổng hợp hóa học thường bị nhầm lẫn. Ngoài ra, cần hiểu sự khác biệt giữa hô hấp hiếu khí và hô hấp kỵ khí."
+      },
+      "subject": "生物"
+    },
+    {
+      "concept": {
+        "ja": "血液と消化過程における生化学的成分の役割",
+        "zh": "血液和消化过程中的生物化学成分的作用",
+        "en": "The role of biochemical components in blood and digestion processes",
+        "vi": "Vai trò của các thành phần sinh hóa trong máu và quá trình tiêu hóa"
+      },
+      "core_rule": {
+        "ja": "生体内での特定の成分の機能とそれに基づく影響を理解し説明すること。",
+        "zh": "理解和解释生物体内特定成分的功能及其影响。",
+        "en": "Understanding and explaining the functions of specific components in the organism and their effects.",
+        "vi": "Hiểu và giải thích chức năng của các thành phần cụ thể trong sinh vật và các ảnh hưởng của chúng."
+      },
+      "elements": [
+        {
+          "ja": "成分の名称（例: アミラーゼ、ペプシン）",
+          "zh": "成分的名称（例如：淀粉酶、胃蛋白酶）",
+          "en": "Name of the component (e.g., amylase, pepsin)",
+          "vi": "Tên của thành phần (ví dụ: amylase, pepsin)"
+        },
+        {
+          "ja": "それぞれの成分が関与する生理学的プロセス",
+          "zh": "每种成分参与的生理过程",
+          "en": "Physiological processes that each component is involved in",
+          "vi": "Quá trình sinh lý mà mỗi thành phần tham gia"
+        },
+        {
+          "ja": "成分の濃度が生理機能に与える影響",
+          "zh": "成分浓度对生理功能的影响",
+          "en": "Impact of component concentration on physiological functions",
+          "vi": "Tác động của nồng độ thành phần đến chức năng sinh lý"
+        },
+        {
+          "ja": "遺伝子型の影響とその表現型における役割",
+          "zh": "基因型对表型的影响及其角色",
+          "en": "Influence of genotype and its role in the phenotype",
+          "vi": "Ảnh hưởng của kiểu gen và vai trò của nó trong kiểu hình"
+        }
+      ],
+      "common_traps": {
+        "ja": "成分の誤った機能や効果を選んでしまうこと。",
+        "zh": "选择错误的成分功能或效果。",
+        "en": "Choosing incorrect functions or effects of components.",
+        "vi": "Chọn các chức năng hoặc tác động sai của các thành phần."
+      },
+      "subject": "生物"
+    },
+    {
+      "concept": {
+        "ja": "生物学における形態と機能の相互関係",
+        "zh": "生物学中形态与功能的相互关系",
+        "en": "The relationship between structure and function in biology",
+        "vi": "Mối quan hệ giữa cấu trúc và chức năng trong sinh học"
+      },
+      "core_rule": {
+        "ja": "植物や動物の構造は、それらの機能や役割を理解する上で重要である。",
+        "zh": "植物和动物的结构对于理解它们的功能和角色至关重要。",
+        "en": "The structure of plants and animals is crucial for understanding their functions and roles.",
+        "vi": "Cấu trúc của thực vật và động vật rất quan trọng để hiểu chức năng và vai trò của chúng."
+      },
+      "elements": [
+        {
+          "ja": "言葉の定義や専門用語の理解",
+          "zh": "对术语和专业词汇的理解",
+          "en": "Understanding of definitions and technical terms",
+          "vi": "Hiểu biết về định nghĩa và thuật ngữ chuyên môn"
+        },
+        {
+          "ja": "図や図面の解釈",
+          "zh": "对图形和图表的解释",
+          "en": "Interpretation of diagrams and illustrations",
+          "vi": "Giải thích các biểu đồ và hình ảnh"
+        },
+        {
+          "ja": "生物の基礎概念（細胞、器官、組織など）の知識",
+          "zh": "对生物基本概念（细胞、器官、组织等）的知识",
+          "en": "Knowledge of basic biological concepts (cells, organs, tissues, etc.)",
+          "vi": "Kiến thức về các khái niệm sinh học cơ bản (tế bào, cơ quan, mô, v.v.)"
+        },
+        {
+          "ja": "特定の機能がどのように構造に関連しているかを考える",
+          "zh": "思考特定功能如何与结构相关",
+          "en": "Consider how specific functions relate to structure",
+          "vi": "Cân nhắc cách mà các chức năng cụ thể liên quan đến cấu trúc"
+        }
+      ],
+      "common_traps": {
+        "ja": "図や用語の誤解、特定の機能と構造の関係を見落とすこと。",
+        "zh": "误解图形和术语，忽略特定功能与结构之间的关系。",
+        "en": "Misunderstanding diagrams and terms, overlooking the relationships between specific functions and structures.",
+        "vi": "Hiểu lầm các biểu đồ và thuật ngữ, bỏ qua các mối quan hệ giữa các chức năng và cấu trúc cụ thể."
+      },
+      "subject": "生物"
+    },
+    {
+      "concept": {
+        "ja": "生物の免疫応答と循環系の働き",
+        "zh": "生物的免疫应答和循环系统的功能",
+        "en": "Biological immune response and the function of the circulatory system",
+        "vi": "Phản ứng miễn dịch sinh học và chức năng của hệ tuần hoàn"
+      },
+      "core_rule": {
+        "ja": "生体内の異物に対する反応や細胞の機能を正確に把握し、相互作用を理解する。",
+        "zh": "准确把握生物体内对外来物质的反应和细胞功能，理解它们之间的相互作用。",
+        "en": "Accurately understand the response of the organism to foreign substances and the functions of cells, and comprehend their interactions.",
+        "vi": "Hiểu chính xác phản ứng của cơ thể đối với các chất ngoại lai và chức năng của các tế bào, và nắm được sự tương tác của chúng."
+      },
+      "elements": [
+        {
+          "ja": "免疫細胞が異物を包み込む過程を理解すること。",
+          "zh": "理解免疫细胞包裹外来物质的过程。",
+          "en": "Understanding the process by which immune cells engulf foreign substances.",
+          "vi": "Hiểu quá trình mà các tế bào miễn dịch bao quanh các chất ngoại lai."
+        },
+        {
+          "ja": "体液性免疫に関与する細胞の役割を把握すること。",
+          "zh": "掌握参与体液免疫的细胞角色。",
+          "en": "Grasping the roles of cells involved in humoral immunity.",
+          "vi": "Nắm được vai trò của các tế bào tham gia vào miễn dịch thể dịch."
+        },
+        {
+          "ja": "循環系内の矢印が示す意味を考えること。",
+          "zh": "思考循环系统中箭头所表示的含义。",
+          "en": "Considering the meaning of the arrows in the circulatory system.",
+          "vi": "Cân nhắc ý nghĩa của các mũi tên trong hệ tuần hoàn."
+        }
+      ],
+      "common_traps": {
+        "ja": "免疫応答や循環の機能を無視したり、細胞の相互作用を誤解しないようにする。",
+        "zh": "确保不忽略免疫应答或循环功能，或误解细胞的相互作用。",
+        "en": "Be careful not to overlook immune responses or circulatory functions, or to misunderstand cell interactions.",
+        "vi": "Cẩn thận không bỏ qua các phản ứng miễn dịch hoặc chức năng tuần hoàn, hoặc hiểu lầm sự tương tác tế bào."
+      },
+      "subject": "生物"
+    },
+    {
+      "concept": {
+        "ja": "生物学における組織、細胞、図の理解",
+        "zh": "生物学中组织、细胞和图的理解",
+        "en": "Understanding of tissues, cells, and diagrams in biology",
+        "vi": "Hiểu biết về mô, tế bào và biểu đồ trong sinh học"
+      },
+      "core_rule": {
+        "ja": "与えられた選択肢の中から正しいまたは誤った情報を特定する。",
+        "zh": "在给定的选项中识别正确或错误的信息。",
+        "en": "Identify the correct or incorrect information from the given options.",
+        "vi": "Xác định thông tin đúng hoặc sai từ các lựa chọn đã cho."
+      },
+      "elements": [
+        {
+          "ja": "生物学の基本的な用語や概念を理解する必要がある。",
+          "zh": "需要理解生物学的基本术语和概念。",
+          "en": "It is important to understand basic biological terms and concepts.",
+          "vi": "Cần phải hiểu các thuật ngữ và khái niệm sinh học cơ bản."
+        },
+        {
+          "ja": "選択肢を慎重に比較する。",
+          "zh": "仔细比较选项。",
+          "en": "Carefully compare the options.",
+          "vi": "So sánh kỹ lưỡng các lựa chọn."
+        },
+        {
+          "ja": "与えられた情報と既存の知識を関連付ける。",
+          "zh": "将给定信息与已有知识联系起来。",
+          "en": "Relate the given information to existing knowledge.",
+          "vi": "Liên kết thông tin được cung cấp với kiến thức hiện có."
+        }
+      ],
+      "common_traps": {
+        "ja": "部分的に正しい情報に惑わされやすい。",
+        "zh": "容易被部分正确的信息迷惑。",
+        "en": "Be easily misled by partially correct information.",
+        "vi": "Dễ bị đánh lừa bởi thông tin đúng một phần."
+      },
+      "subject": "生物"
+    },
+    {
+      "concept": {
+        "ja": "科目マークの重要性",
+        "zh": "科目标记的重要性",
+        "en": "Importance of Subject Marking",
+        "vi": "Tầm quan trọng của việc đánh dấu môn học"
+      },
+      "core_rule": {
+        "ja": "正しくマークされていない場合、採点されない。",
+        "zh": "如果标记不正确，则不会评分。",
+        "en": "If not marked correctly, it will not be graded.",
+        "vi": "Nếu không đánh dấu chính xác, nó sẽ không được chấm điểm."
+      },
+      "elements": [
+        {
+          "ja": "正確な選択を確認する",
+          "zh": "确认正确的选择",
+          "en": "Verify the correct selection",
+          "vi": "Xác minh lựa chọn chính xác"
+        },
+        {
+          "ja": "選択肢を慎重に読む",
+          "zh": "仔细阅读选项",
+          "en": "Read the options carefully",
+          "vi": "Đọc các tùy chọn một cách cẩn thận"
+        },
+        {
+          "ja": "マークシートのルールを理解する",
+          "zh": "理解答题卡的规则",
+          "en": "Understand the rules of the answer sheet",
+          "vi": "Hiểu quy tắc của phiếu trả lời"
+        }
+      ],
+      "common_traps": {
+        "ja": "選択肢を勘違いすること",
+        "zh": "误解选项",
+        "en": "Misunderstanding the options",
+        "vi": "Hiểu sai các tùy chọn"
+      },
+      "subject": "生物"
+    },
+    {
+      "concept": {
+        "ja": "ヒトの耳の構造と機能",
+        "zh": "人耳的结构和功能",
+        "en": "Structure and Function of the Human Ear",
+        "vi": "Cấu trúc và chức năng của tai người"
+      },
+      "core_rule": {
+        "ja": "耳の各部位は特定の機能（聴覚、平衡感覚）を持つことを理解する。",
+        "zh": "理解耳的各个部位具有特定功能（听觉、平衡感知）。",
+        "en": "Understand that each part of the ear has specific functions (hearing, balance).",
+        "vi": "Hiểu rằng mỗi phần của tai có chức năng cụ thể (thính giác, thăng bằng)."
+      },
+      "elements": [
+        {
+          "ja": "聴覚受容器（音を検出）",
+          "zh": "听觉受体（检测声音）",
+          "en": "Auditory receptors (detect sound)",
+          "vi": "Thụ thể thính giác (phát hiện âm thanh)"
+        },
+        {
+          "ja": "平衡感覚受容器（体の回転を検出）",
+          "zh": "平衡感知受体（检测身体的旋转）",
+          "en": "Balance receptors (detect body rotation)",
+          "vi": "Thụ thể cảm nhận thăng bằng (phát hiện sự quay của cơ thể)"
+        },
+        {
+          "ja": "耳の構造（外耳、中耳、内耳）",
+          "zh": "耳朵的结构（外耳、中耳、内耳）",
+          "en": "Ear structure (outer ear, middle ear, inner ear)",
+          "vi": "Cấu trúc tai (tai ngoài, tai giữa, tai trong)"
+        }
+      ],
+      "common_traps": {
+        "ja": "耳の各部位の機能や位置を混同すること。",
+        "zh": "混淆耳各部分的功能或位置。",
+        "en": "Confusing the functions or positions of the ear parts.",
+        "vi": "Nhầm lẫn chức năng hoặc vị trí của các bộ phận tai."
+      },
+      "subject": "生物"
+    },
+    {
+      "concept": {
+        "ja": "生物の図や記述に基づいて反応や名称の組み合わせを理解すること。",
+        "zh": "基于生物图像和描述理解反应或名称组合。",
+        "en": "Understanding the combinations of reactions or names based on biological diagrams and descriptions.",
+        "vi": "Hiểu các tổ hợp phản ứng hoặc tên gọi dựa trên sơ đồ và mô tả sinh học."
+      },
+      "core_rule": {
+        "ja": "与えられた情報（図、反応名、位置など）を正確に読み取り、正しい選択肢を選ぶ。",
+        "zh": "准确阅读给定的信息（图形、反应名称、位置等），并选择正确的选项。",
+        "en": "Accurately reading the given information (diagrams, reaction names, locations, etc.) and selecting the correct option.",
+        "vi": "Đọc chính xác thông tin đã cho (sơ đồ, tên phản ứng, vị trí, v.v.) và chọn lựa chọn đúng."
+      },
+      "elements": [
+        {
+          "ja": "図や表から必要な情報を抽出する能力。",
+          "zh": "从图表中提取所需信息的能力。",
+          "en": "Ability to extract necessary information from diagrams or charts.",
+          "vi": "Khả năng rút ra thông tin cần thiết từ sơ đồ hoặc biểu đồ."
+        },
+        {
+          "ja": "反応や名称の意味を理解すること。",
+          "zh": "理解反应和名称的含义。",
+          "en": "Understanding the meanings of reactions and names.",
+          "vi": "Hiểu ý nghĩa của các phản ứng và tên gọi."
+        },
+        {
+          "ja": "選択肢の中から正しいものを識別する能力。",
+          "zh": "在选项中识别正确内容的能力。",
+          "en": "Ability to identify the correct option among the choices.",
+          "vi": "Khả năng xác định lựa chọn đúng trong số các tùy chọn."
+        }
+      ],
+      "common_traps": {
+        "ja": "類似の名称や反応に惑わされないように注意すること。",
+        "zh": "注意不要被相似的名称或反应所迷惑。",
+        "en": "Be careful not to be misled by similar names or reactions.",
+        "vi": "Cẩn thận không bị nhầm lẫn bởi các tên gọi hoặc phản ứng tương tự."
+      },
+      "subject": "生物"
+    },
+    {
+      "concept": {
+        "ja": "植物の生態と光に対する反応",
+        "zh": "植物生态和对光的反应",
+        "en": "Plant ecology and response to light",
+        "vi": "Sinh thái thực vật và phản ứng với ánh sáng"
+      },
+      "core_rule": {
+        "ja": "植物は光を感知し、その方向に成長する。",
+        "zh": "植物感知光线并向光的方向生长。",
+        "en": "Plants detect light and grow towards it.",
+        "vi": "Cây phát hiện ánh sáng và phát triển về phía nó."
+      },
+      "elements": [
+        {
+          "ja": "光屈性（phototropism）における植物の成長メカニズム",
+          "zh": "光向性中植物的生长机制",
+          "en": "Growth mechanisms of plants in phototropism",
+          "vi": "Cơ chế phát triển của cây trong hiện tượng quang hướng"
+        },
+        {
+          "ja": "光の強さと方向が植物の成長に与える影響",
+          "zh": "光的强度和方向对植物生长的影响",
+          "en": "The effects of light intensity and direction on plant growth",
+          "vi": "Ảnh hưởng của cường độ và hướng ánh sáng đến sự phát triển của cây"
+        },
+        {
+          "ja": "土壌や環境条件が植物の光への反応に与える影響",
+          "zh": "土壤和环境条件对植物光反应的影响",
+          "en": "The impact of soil and environmental conditions on plant light response",
+          "vi": "Ảnh hưởng của đất và điều kiện môi trường đến phản ứng của cây với ánh sáng"
+        }
+      ],
+      "common_traps": {
+        "ja": "光のない方に成長する状態を誤解しやすい。",
+        "zh": "容易误解植物在没有光的地方生长的状态。",
+        "en": "It's easy to misinterpret the state of plants growing in the absence of light.",
+        "vi": "Dễ hiểu sai trạng thái của cây phát triển khi không có ánh sáng."
+      },
+      "subject": "生物"
+    },
+    {
+      "concept": {
+        "ja": "生物の基本的なプロセスの理解",
+        "zh": "对生物基本过程的理解",
+        "en": "Understanding of basic biological processes",
+        "vi": "Hiểu biết về các quá trình sinh học cơ bản"
+      },
+      "core_rule": {
+        "ja": "特定の生物学的プロセスに関する詳しい理解とそれに基づいた応用が求められる。",
+        "zh": "需要对特定生物学过程有详细了解，并根据此进行应用。",
+        "en": "A detailed understanding of specific biological processes is required, along with the ability to apply that knowledge.",
+        "vi": "Cần có hiểu biết chi tiết về các quá trình sinh học cụ thể, cùng với khả năng áp dụng kiến thức đó."
+      },
+      "elements": [
+        {
+          "ja": "DNAの構造と機能の理解",
+          "zh": "对DNA结构和功能的理解",
+          "en": "Understanding the structure and function of DNA",
+          "vi": "Hiểu cấu trúc và chức năng của DNA"
+        },
+        {
+          "ja": "真核生物とその遺伝子表現のメカニズムの理解",
+          "zh": "对真核生物及其基因表达机制的理解",
+          "en": "Understanding eukaryotic organisms and their gene expression mechanisms",
+          "vi": "Hiểu biết về sinh vật nhân thực và cơ chế biểu hiện gen của chúng"
+        },
+        {
+          "ja": "進化の基本的な概念の理解",
+          "zh": "对进化基本概念的理解",
+          "en": "Understanding basic concepts of evolution",
+          "vi": "Hiểu biết về các khái niệm cơ bản về tiến hóa"
+        }
+      ],
+      "common_traps": {
+        "ja": "用語の混同やプロセスの誤解が多い。",
+        "zh": "术语混淆或过程误解是常见的。",
+        "en": "Confusion of terms or misunderstanding of processes is common.",
+        "vi": "Nhầm lẫn thuật ngữ hoặc hiểu sai quy trình là điều phổ biến."
+      },
+      "subject": "生物"
+    },
+    {
+      "concept": {
+        "ja": "原核細胞と真核細胞の特徴",
+        "zh": "原核细胞和真核细胞的特点",
+        "en": "Characteristics of Prokaryotic and Eukaryotic Cells",
+        "vi": "Đặc điểm của tế bào nhân sơ và nhân thực"
+      },
+      "core_rule": {
+        "ja": "細胞の構造と機能を比較し、主な特徴を特定する。",
+        "zh": "比较细胞的结构和功能，确定主要特征。",
+        "en": "Compare the structure and function of cells to identify key characteristics.",
+        "vi": "So sánh cấu trúc và chức năng của tế bào để xác định các đặc điểm chính."
+      },
+      "elements": [
+        {
+          "ja": "原核細胞の特徴（細胞壁、核小体なしなど）",
+          "zh": "原核细胞的特点（细胞壁、没有核小体等）",
+          "en": "Characteristics of Prokaryotic Cells (cell wall, no nucleus, etc.)",
+          "vi": "Đặc điểm của tế bào nhân sơ (thành tế bào, không có nhân, v.v.)"
+        },
+        {
+          "ja": "真核細胞の特徴（膜結合小器官、明確な核など）",
+          "zh": "真核细胞的特点（膜结合小器官、明确的核等）",
+          "en": "Characteristics of Eukaryotic Cells (membrane-bound organelles, defined nucleus, etc.)",
+          "vi": "Đặc điểm của tế bào nhân thực (cơ quan liên kết với màng, nhân rõ ràng, v.v.)"
+        },
+        {
+          "ja": "比較のための重要な指標（サイズ、複雑さ、細胞分裂の方法など）",
+          "zh": "比较的重要指标（大小、复杂性、细胞分裂方式等）",
+          "en": "Key indicators for comparison (size, complexity, method of cell division, etc.)",
+          "vi": "Các chỉ số chính để so sánh (kích thước, độ phức tạp, phương pháp phân chia tế bào, v.v.)"
+        }
+      ],
+      "common_traps": {
+        "ja": "原核細胞と真核細胞を混同しない。",
+        "zh": "不要混淆原核细胞和真核细胞。",
+        "en": "Do not confuse prokaryotic and eukaryotic cells.",
+        "vi": "Không nhầm lẫn giữa tế bào nhân sơ và tế bào nhân thực."
+      },
+      "subject": "生物"
+    },
+    {
+      "concept": {
+        "ja": "文脈の理解",
+        "zh": "语境的理解",
+        "en": "Understanding of context",
+        "vi": "Hiểu nội dung"
+      },
+      "core_rule": {
+        "ja": "下線部の内容を文全体の文脈から推測する必要がある。",
+        "zh": "需要从整个句子的上下文推测下划线部分的内容。",
+        "en": "It is necessary to infer the meaning of the underlined part from the context of the entire text.",
+        "vi": "Cần suy luận ý nghĩa của phần gạch chân từ bối cảnh của toàn bộ văn bản."
+      },
+      "elements": [
+        {
+          "ja": "文脈を確認すること",
+          "zh": "确认语境",
+          "en": "Confirm the context",
+          "vi": "Xác nhận ngữ cảnh"
+        },
+        {
+          "ja": "下線部が示す具体的な内容を特定すること",
+          "zh": "识别下划线部分所示的具体内容",
+          "en": "Identify the specific content indicated by the underlined part",
+          "vi": "Xác định nội dung cụ thể được chỉ ra bởi phần gạch chân"
+        },
+        {
+          "ja": "関連する情報を集めて解釈すること",
+          "zh": "收集相关信息进行解读",
+          "en": "Gather related information for interpretation",
+          "vi": "Thu thập thông tin liên quan để giải thích"
+        }
+      ],
+      "common_traps": {
+        "ja": "文脈を無視して独立した意味を考えること。",
+        "zh": "忽视上下文而单独考虑其意义。",
+        "en": "Ignoring context and considering its meaning in isolation.",
+        "vi": "Bỏ qua ngữ cảnh và chỉ xem xét ý nghĩa một cách cô lập."
+      },
+      "subject": "読解"
+    },
+    {
+      "concept": {
+        "ja": "筆者の意見や見解を理解し、要約すること",
+        "zh": "理解并总结作者的观点和见解",
+        "en": "Understanding and summarizing the author's opinions and viewpoints",
+        "vi": "Hiểu và tóm tắt ý kiến và quan điểm của tác giả"
+      },
+      "core_rule": {
+        "ja": "文章の主題と筆者の意見を特定し、それに基づいて質問に答える",
+        "zh": "确定文章的主题和作者的观点，并根据此回答问题",
+        "en": "Identify the main theme of the passage and the author's viewpoint, then answer the questions based on that",
+        "vi": "Xác định chủ đề chính của đoạn văn và quan điểm của tác giả, sau đó trả lời các câu hỏi dựa trên điều đó"
+      },
+      "elements": [
+        {
+          "ja": "主題の理解",
+          "zh": "理解主题",
+          "en": "Understanding the main theme",
+          "vi": "Hiểu chủ đề chính"
+        },
+        {
+          "ja": "要点を見つける",
+          "zh": "找到要点",
+          "en": "Identifying key points",
+          "vi": "Xác định các điểm chính"
+        },
+        {
+          "ja": "筆者の意見を特定する",
+          "zh": "确定作者的观点",
+          "en": "Identifying the author's opinion",
+          "vi": "Xác định ý kiến của tác giả"
+        },
+        {
+          "ja": "具体例や論証を分析する",
+          "zh": "分析具体例和论证",
+          "en": "Analyzing specific examples and arguments",
+          "vi": "Phân tích các ví dụ cụ thể và luận chứng"
+        }
+      ],
+      "common_traps": {
+        "ja": "筆者の意見と一般的な知識を混同すること",
+        "zh": "将作者的观点与一般知识混淆",
+        "en": "Confusing the author's opinion with general knowledge",
+        "vi": "Nhầm lẫn ý kiến của tác giả với kiến thức chung"
+      },
+      "subject": "読解"
+    },
+    {
+      "concept": {
+        "ja": "読解問題の理解と分析",
+        "zh": "理解和分析阅读问题",
+        "en": "Understanding and analyzing reading comprehension questions",
+        "vi": "Hiểu và phân tích câu hỏi đọc hiểu"
+      },
+      "core_rule": {
+        "ja": "文脈と筆者の意図を考慮することが重要である。",
+        "zh": "考虑上下文和作者的意图是很重要的。",
+        "en": "It is important to consider the context and the author's intention.",
+        "vi": "Cần xem xét ngữ cảnh và mục đích của tác giả."
+      },
+      "elements": [
+        {
+          "ja": "質問がどの文脈で行われているかを確認すること",
+          "zh": "确认问题发生的上下文",
+          "en": "Identify the context in which the question is asked",
+          "vi": "Xác định ngữ cảnh của câu hỏi"
+        },
+        {
+          "ja": "筆者の態度や意見を理解すること",
+          "zh": "理解作者的态度和意见",
+          "en": "Understand the author's attitude and opinion",
+          "vi": "Hiểu thái độ và quan điểm của tác giả"
+        },
+        {
+          "ja": "与えられた情報を正確に把握すること",
+          "zh": "准确把握给定的信息",
+          "en": "Accurately grasp the given information",
+          "vi": "Nắm bắt chính xác thông tin đã cho"
+        }
+      ],
+      "common_traps": {
+        "ja": "表面的情報に惑わされることが多い。",
+        "zh": "常常容易被表面信息所迷惑。",
+        "en": "It is common to be misled by surface-level information.",
+        "vi": "Rất dễ bị lôi cuốn bởi thông tin bề mặt."
+      },
+      "subject": "読解"
+    },
+    {
+      "concept": {
+        "ja": "読解問題において、文中の情報の意義を理解することが求められる。",
+        "zh": "在阅读理解问题中，需要理解文本中信息的意义。",
+        "en": "In reading comprehension questions, understanding the significance of information within the text is required.",
+        "vi": "Trong các câu hỏi đọc hiểu, cần hiểu ý nghĩa của thông tin trong văn bản."
+      },
+      "core_rule": {
+        "ja": "文からの情報を正しく解釈し、その意義を考察する。",
+        "zh": "正确解释文本中的信息，并考虑其意义。",
+        "en": "Correctly interpret information from the text and consider its significance.",
+        "vi": "Giải thích đúng thông tin từ văn bản và xem xét ý nghĩa của nó."
+      },
+      "elements": [
+        {
+          "ja": "下線部やキーワードに着目して、文脈を把握する。",
+          "zh": "关注下划线部分或关键词，理解语境。",
+          "en": "Focus on underlined sections or keywords to grasp the context.",
+          "vi": "Chú ý đến các phần gạch chân hoặc từ khóa để nắm bắt ngữ cảnh."
+        },
+        {
+          "ja": "選択肢の内容が文中と関連しているか確認する。",
+          "zh": "确认选项内容与文本相关性。",
+          "en": "Check if the content of the options relates to the text.",
+          "vi": "Kiểm tra xem nội dung của các tùy chọn có liên quan đến văn bản không."
+        },
+        {
+          "ja": "質問が何を尋ねているかを明確に理解する。",
+          "zh": "清楚地理解问题在询问什么。",
+          "en": "Clearly understand what the question is asking.",
+          "vi": "Hiểu rõ câu hỏi đang hỏi điều gì."
+        }
+      ],
+      "common_traps": {
+        "ja": "選択肢の表現が文中に直接示されていない場合でも、内容を把握することが重要。",
+        "zh": "即使选项的表达在文本中没有直接表达，理解内容仍然很重要。",
+        "en": "It is important to understand the content even if the expressions in the options are not directly stated in the text.",
+        "vi": "Điều quan trọng là phải hiểu nội dung ngay cả khi các biểu thức trong các tùy chọn không được nêu trực tiếp trong văn bản."
+      },
+      "subject": "読解"
+    },
+    {
+      "concept": {
+        "ja": "文章の読み解きと情報の把握",
+        "zh": "文章的解读与信息获取",
+        "en": "Reading comprehension and information extraction",
+        "vi": "Hiểu bài đọc và trích xuất thông tin"
+      },
+      "core_rule": {
+        "ja": "文章から特定の情報や手続きを抽出し、解答に必要な要求を理解する。",
+        "zh": "从文章中提取特定的信息或程序，理解回答所需的要求。",
+        "en": "Extract specific information or procedures from the text and understand the requirements needed for the answer.",
+        "vi": "Trích xuất thông tin hoặc quy trình cụ thể từ văn bản và hiểu rõ các yêu cầu cần thiết để trả lời."
+      },
+      "elements": [
+        {
+          "ja": "文章の内容を注意深く読み、重要な情報を見極める。",
+          "zh": "仔细阅读文章的内容，辨别重要信息。",
+          "en": "Carefully read the content of the text and identify important information.",
+          "vi": "Đọc kỹ nội dung của văn bản và xác định thông tin quan trọng."
+        },
+        {
+          "ja": "問われていることを正確に把握する。",
+          "zh": "准确把握所问的内容。",
+          "en": "Accurately understand what is being asked.",
+          "vi": "Hiểu đúng những gì đang được hỏi."
+        },
+        {
+          "ja": "手続きや必要な条件を明確にする。",
+          "zh": "明确程序和必要条件。",
+          "en": "Clarify the procedures and necessary conditions.",
+          "vi": "Làm rõ các quy trình và điều kiện cần thiết."
+        }
+      ],
+      "common_traps": {
+        "ja": "文章中の余計な情報に惑わされないよう注意する。",
+        "zh": "注意不要被文章中的多余信息迷惑。",
+        "en": "Be careful not to be misled by extraneous information in the text.",
+        "vi": "Cẩn thận đừng để bị lạc bởi những thông tin thừa trong văn bản."
+      },
+      "subject": "読解"
+    },
+    {
+      "concept": {
+        "ja": "文章の内容理解",
+        "zh": "理解文章内容",
+        "en": "Understanding Article Content",
+        "vi": "Hiểu nội dung bài viết"
+      },
+      "core_rule": {
+        "ja": "文章の要点や構造を把握し、問いに対して必要な情報を特定すること",
+        "zh": "把握文章的要点和结构，并确定问题所需的信息",
+        "en": "Understand the main points and structure of the article and identify the required information for the question",
+        "vi": "Hiểu các điểm chính và cấu trúc của bài viết, đồng thời xác định thông tin cần thiết cho câu hỏi"
+      },
+      "elements": [
+        {
+          "ja": "文章の概要を理解すること",
+          "zh": "理解文章的整体概念",
+          "en": "Grasp the overall concept of the article",
+          "vi": "Nắm bắt khái niệm tổng thể của bài viết"
+        },
+        {
+          "ja": "特定の情報を見つけるために、関連するキーワードを識別すること",
+          "zh": "识别相关关键词以找到特定信息",
+          "en": "Identify relevant keywords to locate specific information",
+          "vi": "Xác định các từ khóa liên quan để tìm thông tin cụ thể"
+        },
+        {
+          "ja": "問いの文脈に注目して、情報を適切に関連付けること",
+          "zh": "关注问题的上下文，将信息适当地关联起来",
+          "en": "Pay attention to the context of the question and appropriately relate the information",
+          "vi": "Chú ý đến ngữ cảnh của câu hỏi và liên kết thông tin một cách phù hợp"
+        }
+      ],
+      "common_traps": {
+        "ja": "詳細に執着しすぎて全体の文脈を見失うこと",
+        "zh": "过于关注细节而失去整体的上下文",
+        "en": "Getting too caught up in details and losing sight of the overall context",
+        "vi": "Quá chú ý đến chi tiết mà đánh mất bối cảnh tổng thể"
+      },
+      "subject": "読解"
+    },
+    {
+      "concept": {
+        "ja": "筆者が伝えたい主旨を理解すること",
+        "zh": "理解作者想要传达的主题",
+        "en": "Understanding the main point the author wants to convey",
+        "vi": "Hiểu ý chính mà tác giả muốn truyền đạt"
+      },
+      "core_rule": {
+        "ja": "文章の内容をよく読み、筆者の意図を推測すること",
+        "zh": "仔细阅读文本并推测作者的意图",
+        "en": "Carefully read the text and infer the author's intention",
+        "vi": "Đọc kỹ văn bản và suy luận ý định của tác giả"
+      },
+      "elements": [
+        {
+          "ja": "文章の主題やテーマを特定する",
+          "zh": "识别文章的主题或题材",
+          "en": "Identify the theme or subject of the text",
+          "vi": "Xác định chủ đề hoặc đề tài của văn bản"
+        },
+        {
+          "ja": "筆者の意見や感情を探る",
+          "zh": "探讨作者的观点或情感",
+          "en": "Explore the author's opinions or emotions",
+          "vi": "Khám phá ý kiến hoặc cảm xúc của tác giả"
+        },
+        {
+          "ja": "文章の構造や論理を理解する",
+          "zh": "理解文本的结构和逻辑",
+          "en": "Understand the structure and logic of the text",
+          "vi": "Hiểu cấu trúc và logic của văn bản"
+        },
+        {
+          "ja": "選択肢を比較して、最も関連性の高いものを選ぶ",
+          "zh": "比较选项，选择最相关的",
+          "en": "Compare the options and choose the most relevant one",
+          "vi": "So sánh các tùy chọn và chọn cái phù hợp nhất"
+        }
+      ],
+      "common_traps": {
+        "ja": "詳細な具体例に惑わされることがある",
+        "zh": "有时会被详细的具体例子迷惑",
+        "en": "Sometimes get distracted by detailed examples",
+        "vi": "Đôi khi bị phân tâm bởi các ví dụ chi tiết"
+      },
+      "subject": "読解"
+    },
+    {
+      "concept": {
+        "ja": "募集案内の内容に基づいて正確な情報を選ぶこと。",
+        "zh": "基于招募通知的内容选择准确的信息。",
+        "en": "Selecting accurate information based on the content of the recruitment notice.",
+        "vi": "Chọn thông tin chính xác dựa trên nội dung thông báo tuyển dụng."
+      },
+      "core_rule": {
+        "ja": "募集案内の要点を正確に理解し、それに合致する選択肢を探す。",
+        "zh": "准确理解招募通知的要点，并寻找符合这些要点的选项。",
+        "en": "Accurately understand the key points of the recruitment notice and look for options that match them.",
+        "vi": "Hiểu chính xác các điểm chính của thông báo tuyển dụng và tìm kiếm các lựa chọn phù hợp."
+      },
+      "elements": [
+        {
+          "ja": "募集案内を注意深く読む。",
+          "zh": "仔细阅读招募通知。",
+          "en": "Read the recruitment notice carefully.",
+          "vi": "Đọc kỹ thông báo tuyển dụng."
+        },
+        {
+          "ja": "選択肢を一つずつ比較する。",
+          "zh": "逐一比较选项。",
+          "en": "Compare each option one by one.",
+          "vi": "So sánh từng lựa chọn một."
+        },
+        {
+          "ja": "文脈や目的を考慮する。",
+          "zh": "考虑上下文和目的。",
+          "en": "Consider the context and purpose.",
+          "vi": "Xem xét bối cảnh và mục đích."
+        },
+        {
+          "ja": "情報が一致しているか確認する。",
+          "zh": "确认信息是否一致。",
+          "en": "Verify if the information is consistent.",
+          "vi": "Xác nhận thông tin có nhất quán hay không."
+        }
+      ],
+      "common_traps": {
+        "ja": "内容を誤解したり、既知の情報に基づいて決定したりすること。",
+        "zh": "误解内容或基于已知信息做决策。",
+        "en": "Misunderstanding the content or making decisions based on known information.",
+        "vi": "Hiểu sai nội dung hoặc đưa ra quyết định dựa trên thông tin đã biết."
+      },
+      "subject": "読解"
+    },
+    {
+      "concept": {
+        "ja": "文章の理解とその内容に基づく選択肢の評価",
+        "zh": "对文章的理解和基于该内容的选项评估",
+        "en": "Understanding the text and evaluating options based on that content",
+        "vi": "Hiểu văn bản và đánh giá các lựa chọn dựa trên nội dung đó"
+      },
+      "core_rule": {
+        "ja": "文章の主旨や情報に基づいて正しい選択肢を見つけること",
+        "zh": "根据文章的主题和信息找出正确的选项",
+        "en": "Finding the correct option based on the main idea and information of the text",
+        "vi": "Tìm lựa chọn đúng dựa trên ý chính và thông tin của văn bản"
+      },
+      "elements": [
+        {
+          "ja": "文章の主題を特定する",
+          "zh": "确定文章的主题",
+          "en": "Identify the main theme of the text",
+          "vi": "Xác định chủ đề chính của văn bản"
+        },
+        {
+          "ja": "重要な情報や論点を抽出する",
+          "zh": "提取重要信息和论点",
+          "en": "Extract important information and arguments",
+          "vi": "Rút ra thông tin và lập luận quan trọng"
+        },
+        {
+          "ja": "選択肢を比較検討する",
+          "zh": "比较和审查选项",
+          "en": "Compare and evaluate the options",
+          "vi": "So sánh và đánh giá các lựa chọn"
+        },
+        {
+          "ja": "文章の文脈を考慮する",
+          "zh": "考虑文章的上下文",
+          "en": "Consider the context of the text",
+          "vi": "Xem xét bối cảnh của văn bản"
+        }
+      ],
+      "common_traps": {
+        "ja": "選択肢の言葉の意味が似ている場合や、誤解を招く情報に惑わされること",
+        "zh": "选项的字义相似或对误导性信息的误解",
+        "en": "Similar wording in options or being misled by misleading information",
+        "vi": "Ngôn từ trong các lựa chọn tương tự nhau hoặc bị đánh lừa bởi thông tin gây hiểu lầm"
+      },
+      "subject": "読解"
+    },
+    {
+      "concept": {
+        "ja": "問題文の情報から、具体的な内容や主旨を把握すること。",
+        "zh": "根据问题中的信息理解具体内容或主旨。",
+        "en": "Understanding specific content or main ideas based on the information in the question.",
+        "vi": "Hiểu nội dung cụ thể hoặc ý chính dựa trên thông tin trong câu hỏi."
+      },
+      "core_rule": {
+        "ja": "与えられたテキストや文脈に基づいて、適切な情報を選択すること。",
+        "zh": "基于给定的文本或上下文选择适当的信息。",
+        "en": "Selecting appropriate information based on the given text or context.",
+        "vi": "Chọn thông tin thích hợp dựa trên văn bản hoặc ngữ cảnh đã cho."
+      },
+      "elements": [
+        {
+          "ja": "テキストの主旨を把握する。",
+          "zh": "理解文本的主旨。",
+          "en": "Grasp the main idea of the text.",
+          "vi": "Nắm bắt ý chính của văn bản."
+        },
+        {
+          "ja": "具体的な情報を見つける。",
+          "zh": "找到具体信息。",
+          "en": "Locate specific information.",
+          "vi": "Tìm thông tin cụ thể."
+        },
+        {
+          "ja": "選択肢との照合を行う。",
+          "zh": "与选项进行比对。",
+          "en": "Compare with the answer choices.",
+          "vi": "So sánh với các lựa chọn câu trả lời."
+        },
+        {
+          "ja": "前後の文脈を考慮する。",
+          "zh": "考虑前后的上下文。",
+          "en": "Consider the surrounding context.",
+          "vi": "Xem xét ngữ cảnh xung quanh."
+        }
+      ],
+      "common_traps": {
+        "ja": "選択肢を確認せずに直感だけで決めること。",
+        "zh": "不查看选项，仅凭直觉做决定。",
+        "en": "Deciding based only on intuition without checking the choices.",
+        "vi": "Quyết định chỉ dựa trên trực giác mà không xem xét các lựa chọn."
+      },
+      "subject": "読解"
+    },
+    {
+      "concept": {
+        "ja": "読解",
+        "zh": "阅读理解",
+        "en": "Reading Comprehension",
+        "vi": "Hiểu biết đọc"
+      },
+      "core_rule": {
+        "ja": "文章を注意深く読み、質問に正確に答える。",
+        "zh": "仔细阅读文章，并准确回答问题。",
+        "en": "Read the passage carefully and answer the questions accurately.",
+        "vi": "Đọc đoạn văn một cách cẩn thận và trả lời câu hỏi một cách chính xác."
+      },
+      "elements": [
+        {
+          "ja": "文章の主題を把握する。",
+          "zh": "理解文章的主题。",
+          "en": "Identify the main theme of the passage.",
+          "vi": "Xác định chủ đề chính của đoạn văn."
+        },
+        {
+          "ja": "キーワードを見つける。",
+          "zh": "找到关键字。",
+          "en": "Find key words.",
+          "vi": "Tìm từ khóa."
+        },
+        {
+          "ja": "文章の構造を理解する。",
+          "zh": "理解文章的结构。",
+          "en": "Understand the structure of the passage.",
+          "vi": "Hiểu cấu trúc của đoạn văn."
+        },
+        {
+          "ja": "文脈を考慮する。",
+          "zh": "考虑上下文。",
+          "en": "Consider the context.",
+          "vi": "Xem xét bối cảnh."
+        },
+        {
+          "ja": "質問の意図を考える。",
+          "zh": "考虑问题的意图。",
+          "en": "Think about the intention of the question.",
+          "vi": "Suy nghĩ về ý định của câu hỏi."
+        }
+      ],
+      "common_traps": {
+        "ja": "質問の詳細に注意しないと、誤解する可能性がある。",
+        "zh": "如果不注意问题的细节，可能会误解。",
+        "en": "If you do not pay attention to the details of the question, you may misunderstand.",
+        "vi": "Nếu không chú ý đến chi tiết của câu hỏi, bạn có thể hiểu sai."
+      },
+      "subject": "読解"
+    },
+    {
+      "concept": {
+        "ja": "文脈における適切な語句や内容の選択",
+        "zh": "在语境中选择适当的词语或内容",
+        "en": "Selecting appropriate words or content in context",
+        "vi": "Chọn từ hoặc nội dung phù hợp trong ngữ cảnh"
+      },
+      "core_rule": {
+        "ja": "与えられた文脈や段落から、情報を正確に理解し、適切な選択肢を判断する。",
+        "zh": "根据给定的上下文或段落，准确理解信息，并判断合适的选项。",
+        "en": "Accurately understand the information from the given context or paragraphs and judge the appropriate options.",
+        "vi": "Hiểu chính xác thông tin từ ngữ cảnh hoặc đoạn văn được cho và đánh giá các tùy chọn phù hợp."
+      },
+      "elements": [
+        {
+          "ja": "段落全体の主旨を把握する",
+          "zh": "掌握整个段落的主旨",
+          "en": "Grasp the main idea of the entire paragraph",
+          "vi": "Nắm bắt ý chính của cả đoạn văn"
+        },
+        {
+          "ja": "キーワードやフレーズを抽出する",
+          "zh": "提取关键词或短语",
+          "en": "Extract keywords or phrases",
+          "vi": "Trích xuất từ khóa hoặc cụm từ"
+        },
+        {
+          "ja": "選択肢との整合性を確認する",
+          "zh": "确认与选项的一致性",
+          "en": "Check for consistency with the options",
+          "vi": "Kiểm tra sự nhất quán với các tùy chọn"
+        },
+        {
+          "ja": "文脈に合った言語表現を選ぶ",
+          "zh": "选择符合上下文的语言表达",
+          "en": "Choose language expressions that fit the context",
+          "vi": "Chọn các cách diễn đạt ngôn ngữ phù hợp với ngữ cảnh"
+        }
+      ],
+      "common_traps": {
+        "ja": "文脈を無視した誤った選択肢",
+        "zh": "忽视上下文的错误选项",
+        "en": "Incorrect options that ignore the context",
+        "vi": "Các tùy chọn sai lầm không chú ý đến ngữ cảnh"
+      },
+      "subject": "読解"
+    }
+  ]
+}

@@ -1,0 +1,3308 @@
+{
+  "year": 2018,
+  "session": 1,
+  "session_label": "2018_第1回",
+  "exam_name": "平成30年度（2018年度）日本留学試験",
+  "subjects": {
+    "all": {
+      "subject": "all",
+      "subject_ja": "全科目",
+      "files": [
+        {
+          "filename": "2018_1answer_202512.pdf",
+          "type": "answer_key",
+          "language": "ja",
+          "total_pages": 4,
+          "text_pages": 4,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization\n※ウェブへの掲載許諾を得た問題の解答のみ掲載しています。",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1answer_202512/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1answer_202512/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1answer_202512/page_004.png"
+            }
+          ]
+        },
+        {
+          "filename": "2018_1answer_e202512_1.pdf",
+          "type": "answer_key",
+          "language": "en",
+          "total_pages": 4,
+          "text_pages": 4,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization\n※ウェブへの掲載許諾を得た問題の解答のみ掲載しています。",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1answer_e202512_1/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1answer_e202512_1/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1answer_e202512_1/page_004.png"
+            }
+          ]
+        }
+      ]
+    },
+    "japanese": {
+      "subject": "japanese",
+      "subject_ja": "日本語",
+      "files": [
+        {
+          "filename": "2018_1answer_jafl_writing.pdf",
+          "type": "writing_sample",
+          "language": "ja",
+          "total_pages": 2,
+          "text_pages": 2,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1answer_jafl_writing/page_002.png"
+            }
+          ]
+        },
+        {
+          "filename": "2018_1answer_jafl_writing_e.pdf",
+          "type": "writing_sample",
+          "language": "ja",
+          "total_pages": 2,
+          "text_pages": 2,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1answer_jafl_writing_e/page_002.png"
+            }
+          ]
+        },
+        {
+          "filename": "2018_1question_jafl.pdf",
+          "type": "question",
+          "language": "ja",
+          "total_pages": 32,
+          "text_pages": 32,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_004.png"
+            },
+            {
+              "page": 5,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_005.png"
+            },
+            {
+              "page": 6,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_006.png"
+            },
+            {
+              "page": 7,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_007.png"
+            },
+            {
+              "page": 8,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_008.png"
+            },
+            {
+              "page": 9,
+              "text": "© 2018 Japan Student Services O rganization\n\u0003\n\u0003\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\nⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢙࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ\nࠋ\nϨ",
+              "has_text": true
+            },
+            {
+              "page": 10,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_010.png"
+            },
+            {
+              "page": 11,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\n\u0003ⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢙࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ\nϪ\u000fϫ",
+              "has_text": true
+            },
+            {
+              "page": 12,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_012.png"
+            },
+            {
+              "page": 13,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀ\n\u0003\nⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡣ࢙࢘ࣈᥖ㍕࠸ࡓࡋࡲࡏࢇࠋ\nϭ\u000fϮ\u000fϯ\u000fϰ\n\u0003",
+              "has_text": true
+            },
+            {
+              "page": 14,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_014.png"
+            },
+            {
+              "page": 15,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_015.png"
+            },
+            {
+              "page": 16,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_016.png"
+            },
+            {
+              "page": 17,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_017.png"
+            },
+            {
+              "page": 18,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\nⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢚࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ\nࠋ\nϱϩࠊϱϪࠊϱϫ㸪ϱϬࠊϱϭ",
+              "has_text": true
+            },
+            {
+              "page": 19,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_019.png"
+            },
+            {
+              "page": 20,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_020.png"
+            },
+            {
+              "page": 21,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_021.png"
+            },
+            {
+              "page": 22,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_022.png"
+            },
+            {
+              "page": 23,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_023.png"
+            },
+            {
+              "page": 24,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_024.png"
+            },
+            {
+              "page": 25,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\n\u0014␒ࠊ㸰␒ࠊ㸱␒\n\u0003ⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢙࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ",
+              "has_text": true
+            },
+            {
+              "page": 26,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_026.png"
+            },
+            {
+              "page": 27,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\n\u0003ⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢚࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ\n\u0018␒ࠊ\u0019␒ࠊ\u001a␒ࠊ㸶␒ࠊ㸷␒ࠊ\u0014\u0013␒ࠊ\u0014\u0014␒ࠊ\u0014\u0015␒",
+              "has_text": true
+            },
+            {
+              "page": 28,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_028.png"
+            },
+            {
+              "page": 29,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_029.png"
+            },
+            {
+              "page": 30,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_030.png"
+            },
+            {
+              "page": 31,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_031.png"
+            },
+            {
+              "page": 32,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl/page_032.png"
+            }
+          ]
+        },
+        {
+          "filename": "2018_1question_jafl_1.pdf",
+          "type": "question",
+          "language": "ja",
+          "total_pages": 32,
+          "text_pages": 32,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_004.png"
+            },
+            {
+              "page": 5,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_005.png"
+            },
+            {
+              "page": 6,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_006.png"
+            },
+            {
+              "page": 7,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_007.png"
+            },
+            {
+              "page": 8,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_008.png"
+            },
+            {
+              "page": 9,
+              "text": "© 2018 Japan Student Services O rganization\n\u0003\n\u0003\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\nⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢙࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ\nࠋ\nϨ",
+              "has_text": true
+            },
+            {
+              "page": 10,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_010.png"
+            },
+            {
+              "page": 11,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\n\u0003ⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢙࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ\nϪ\u000fϫ",
+              "has_text": true
+            },
+            {
+              "page": 12,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_012.png"
+            },
+            {
+              "page": 13,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀ\n\u0003\nⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡣ࢙࢘ࣈᥖ㍕࠸ࡓࡋࡲࡏࢇࠋ\nϭ\u000fϮ\u000fϯ\u000fϰ\n\u0003",
+              "has_text": true
+            },
+            {
+              "page": 14,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_014.png"
+            },
+            {
+              "page": 15,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_015.png"
+            },
+            {
+              "page": 16,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_016.png"
+            },
+            {
+              "page": 17,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_017.png"
+            },
+            {
+              "page": 18,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\nⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢚࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ\nࠋ\nϱϩࠊϱϪࠊϱϫ㸪ϱϬࠊϱϭ",
+              "has_text": true
+            },
+            {
+              "page": 19,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_019.png"
+            },
+            {
+              "page": 20,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_020.png"
+            },
+            {
+              "page": 21,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_021.png"
+            },
+            {
+              "page": 22,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_022.png"
+            },
+            {
+              "page": 23,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_023.png"
+            },
+            {
+              "page": 24,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_024.png"
+            },
+            {
+              "page": 25,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\n\u0014␒ࠊ㸰␒ࠊ㸱␒\n\u0003ⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢙࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ",
+              "has_text": true
+            },
+            {
+              "page": 26,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_026.png"
+            },
+            {
+              "page": 27,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\n\u0003ⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢚࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ\n\u0018␒ࠊ\u0019␒ࠊ\u001a␒ࠊ㸶␒ࠊ㸷␒ࠊ\u0014\u0013␒ࠊ\u0014\u0014␒ࠊ\u0014\u0015␒",
+              "has_text": true
+            },
+            {
+              "page": 28,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_028.png"
+            },
+            {
+              "page": 29,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_029.png"
+            },
+            {
+              "page": 30,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_030.png"
+            },
+            {
+              "page": 31,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_031.png"
+            },
+            {
+              "page": 32,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_1/page_032.png"
+            }
+          ]
+        },
+        {
+          "filename": "2018_1question_jafl_e.pdf",
+          "type": "question",
+          "language": "ja",
+          "total_pages": 32,
+          "text_pages": 32,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_004.png"
+            },
+            {
+              "page": 5,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_005.png"
+            },
+            {
+              "page": 6,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_006.png"
+            },
+            {
+              "page": 7,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_007.png"
+            },
+            {
+              "page": 8,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_008.png"
+            },
+            {
+              "page": 9,
+              "text": "© 2018 Japan Student Services O rganization\n\u0003\n\u0003\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\nⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢙࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ\nϨ",
+              "has_text": true
+            },
+            {
+              "page": 10,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_010.png"
+            },
+            {
+              "page": 11,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\n\u0003ⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢙࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ\nϪ\u000fϫ",
+              "has_text": true
+            },
+            {
+              "page": 12,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_012.png"
+            },
+            {
+              "page": 13,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀ\n\u0003\nⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡣ࢙࢘ࣈᥖ㍕࠸ࡓࡋࡲࡏࢇࠋ\nϭ\u000fϮ\u000fϯ\u000fϰ\n\u0003",
+              "has_text": true
+            },
+            {
+              "page": 14,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_014.png"
+            },
+            {
+              "page": 15,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_015.png"
+            },
+            {
+              "page": 16,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_016.png"
+            },
+            {
+              "page": 17,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_017.png"
+            },
+            {
+              "page": 18,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\nⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢚࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ\nࠋ\nϱϩࠊϱϪࠊϱϫ㸪ϱϬࠊϱϭ",
+              "has_text": true
+            },
+            {
+              "page": 19,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_019.png"
+            },
+            {
+              "page": 20,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_020.png"
+            },
+            {
+              "page": 21,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_021.png"
+            },
+            {
+              "page": 22,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_022.png"
+            },
+            {
+              "page": 23,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_023.png"
+            },
+            {
+              "page": 24,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_024.png"
+            },
+            {
+              "page": 25,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\n\u0014␒ࠊ㸰␒ࠊ㸱␒\n\u0003ⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢙࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ",
+              "has_text": true
+            },
+            {
+              "page": 26,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_026.png"
+            },
+            {
+              "page": 27,
+              "text": "© 2018 Japan Student Services O rganization\nヨ㦂ၥ㢟࡜ࡋ࡚ࡣᡂ❧ࡋ࡚࠸ࡲࡍࡀࠊ\n\u0003ⴭసᶒୖࡢ㒔ྜ࡟ࡼࡾᮏၥ㢟ࡢ࢚࢘ࣈᥖ㍕ࡣ࠸ࡓࡋࡲࡏࢇࠋ\n\u0018␒ࠊ\u0019␒ࠊ\u001a␒ࠊ㸶␒ࠊ㸷␒ࠊ\u0014\u0013␒ࠊ\u0014\u0014␒ࠊ\u0014\u0015␒",
+              "has_text": true
+            },
+            {
+              "page": 28,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_028.png"
+            },
+            {
+              "page": 29,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_029.png"
+            },
+            {
+              "page": 30,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_030.png"
+            },
+            {
+              "page": 31,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_031.png"
+            },
+            {
+              "page": 32,
+              "text": "© 2018 Japan Student Services O rganization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jafl_e/page_032.png"
+            }
+          ]
+        },
+        {
+          "filename": "2018_1script_jaf_lr.pdf",
+          "type": "listening_script",
+          "language": "ja",
+          "total_pages": 9,
+          "text_pages": 9,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1script_jaf_lr/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1script_jaf_lr/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1script_jaf_lr/page_004.png"
+            },
+            {
+              "page": 5,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1script_jaf_lr/page_005.png"
+            },
+            {
+              "page": 6,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1script_jaf_lr/page_006.png"
+            },
+            {
+              "page": 7,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1script_jaf_lr/page_007.png"
+            },
+            {
+              "page": 8,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1script_jaf_lr/page_008.png"
+            },
+            {
+              "page": 9,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1script_jaf_lr/page_009.png"
+            }
+          ]
+        }
+      ]
+    },
+    "japan_and_world": {
+      "subject": "japan_and_world",
+      "subject_ja": "総合科目",
+      "files": [
+        {
+          "filename": "2018_1question_jw.pdf",
+          "type": "question",
+          "language": "ja",
+          "total_pages": 22,
+          "text_pages": 22,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_004.png"
+            },
+            {
+              "page": 5,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_005.png"
+            },
+            {
+              "page": 6,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_006.png"
+            },
+            {
+              "page": 7,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_007.png"
+            },
+            {
+              "page": 8,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_008.png"
+            },
+            {
+              "page": 9,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_009.png"
+            },
+            {
+              "page": 10,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_010.png"
+            },
+            {
+              "page": 11,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_011.png"
+            },
+            {
+              "page": 12,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_012.png"
+            },
+            {
+              "page": 13,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_013.png"
+            },
+            {
+              "page": 14,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_014.png"
+            },
+            {
+              "page": 15,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_015.png"
+            },
+            {
+              "page": 16,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_016.png"
+            },
+            {
+              "page": 17,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_017.png"
+            },
+            {
+              "page": 18,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_018.png"
+            },
+            {
+              "page": 19,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_019.png"
+            },
+            {
+              "page": 20,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_020.png"
+            },
+            {
+              "page": 21,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_021.png"
+            },
+            {
+              "page": 22,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw/page_022.png"
+            }
+          ]
+        },
+        {
+          "filename": "2018_1question_jw_e.pdf",
+          "type": "question",
+          "language": "en",
+          "total_pages": 28,
+          "text_pages": 28,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_004.png"
+            },
+            {
+              "page": 5,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_005.png"
+            },
+            {
+              "page": 6,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_006.png"
+            },
+            {
+              "page": 7,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_007.png"
+            },
+            {
+              "page": 8,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_008.png"
+            },
+            {
+              "page": 9,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_009.png"
+            },
+            {
+              "page": 10,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_010.png"
+            },
+            {
+              "page": 11,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_011.png"
+            },
+            {
+              "page": 12,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_012.png"
+            },
+            {
+              "page": 13,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_013.png"
+            },
+            {
+              "page": 14,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_014.png"
+            },
+            {
+              "page": 15,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_015.png"
+            },
+            {
+              "page": 16,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_016.png"
+            },
+            {
+              "page": 17,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_017.png"
+            },
+            {
+              "page": 18,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_018.png"
+            },
+            {
+              "page": 19,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_019.png"
+            },
+            {
+              "page": 20,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_020.png"
+            },
+            {
+              "page": 21,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_021.png"
+            },
+            {
+              "page": 22,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_022.png"
+            },
+            {
+              "page": 23,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_023.png"
+            },
+            {
+              "page": 24,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_024.png"
+            },
+            {
+              "page": 25,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_025.png"
+            },
+            {
+              "page": 26,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_026.png"
+            },
+            {
+              "page": 27,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_027.png"
+            },
+            {
+              "page": 28,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_jw_e/page_028.png"
+            }
+          ]
+        }
+      ]
+    },
+    "math": {
+      "subject": "math",
+      "subject_ja": "数学",
+      "files": [
+        {
+          "filename": "2018_1question_math.pdf",
+          "type": "question",
+          "language": "ja",
+          "total_pages": 30,
+          "text_pages": 30,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_004.png"
+            },
+            {
+              "page": 5,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_005.png"
+            },
+            {
+              "page": 6,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_006.png"
+            },
+            {
+              "page": 7,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_007.png"
+            },
+            {
+              "page": 8,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_008.png"
+            },
+            {
+              "page": 9,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_009.png"
+            },
+            {
+              "page": 10,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_010.png"
+            },
+            {
+              "page": 11,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_011.png"
+            },
+            {
+              "page": 12,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_012.png"
+            },
+            {
+              "page": 13,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_013.png"
+            },
+            {
+              "page": 14,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_014.png"
+            },
+            {
+              "page": 15,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_015.png"
+            },
+            {
+              "page": 16,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_016.png"
+            },
+            {
+              "page": 17,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_017.png"
+            },
+            {
+              "page": 18,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_018.png"
+            },
+            {
+              "page": 19,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_019.png"
+            },
+            {
+              "page": 20,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_020.png"
+            },
+            {
+              "page": 21,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_021.png"
+            },
+            {
+              "page": 22,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_022.png"
+            },
+            {
+              "page": 23,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_023.png"
+            },
+            {
+              "page": 24,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_024.png"
+            },
+            {
+              "page": 25,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_025.png"
+            },
+            {
+              "page": 26,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_026.png"
+            },
+            {
+              "page": 27,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_027.png"
+            },
+            {
+              "page": 28,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_028.png"
+            },
+            {
+              "page": 29,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_029.png"
+            },
+            {
+              "page": 30,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math/page_030.png"
+            }
+          ]
+        },
+        {
+          "filename": "2018_1question_math_1.pdf",
+          "type": "question",
+          "language": "ja",
+          "total_pages": 30,
+          "text_pages": 30,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_004.png"
+            },
+            {
+              "page": 5,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_005.png"
+            },
+            {
+              "page": 6,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_006.png"
+            },
+            {
+              "page": 7,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_007.png"
+            },
+            {
+              "page": 8,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_008.png"
+            },
+            {
+              "page": 9,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_009.png"
+            },
+            {
+              "page": 10,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_010.png"
+            },
+            {
+              "page": 11,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_011.png"
+            },
+            {
+              "page": 12,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_012.png"
+            },
+            {
+              "page": 13,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_013.png"
+            },
+            {
+              "page": 14,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_014.png"
+            },
+            {
+              "page": 15,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_015.png"
+            },
+            {
+              "page": 16,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_016.png"
+            },
+            {
+              "page": 17,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_017.png"
+            },
+            {
+              "page": 18,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_018.png"
+            },
+            {
+              "page": 19,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_019.png"
+            },
+            {
+              "page": 20,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_020.png"
+            },
+            {
+              "page": 21,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_021.png"
+            },
+            {
+              "page": 22,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_022.png"
+            },
+            {
+              "page": 23,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_023.png"
+            },
+            {
+              "page": 24,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_024.png"
+            },
+            {
+              "page": 25,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_025.png"
+            },
+            {
+              "page": 26,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_026.png"
+            },
+            {
+              "page": 27,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_027.png"
+            },
+            {
+              "page": 28,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_028.png"
+            },
+            {
+              "page": 29,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_029.png"
+            },
+            {
+              "page": 30,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_1/page_030.png"
+            }
+          ]
+        },
+        {
+          "filename": "2018_1question_math_e.pdf",
+          "type": "question",
+          "language": "en",
+          "total_pages": 29,
+          "text_pages": 29,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_004.png"
+            },
+            {
+              "page": 5,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_005.png"
+            },
+            {
+              "page": 6,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_006.png"
+            },
+            {
+              "page": 7,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_007.png"
+            },
+            {
+              "page": 8,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_008.png"
+            },
+            {
+              "page": 9,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_009.png"
+            },
+            {
+              "page": 10,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_010.png"
+            },
+            {
+              "page": 11,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_011.png"
+            },
+            {
+              "page": 12,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_012.png"
+            },
+            {
+              "page": 13,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_013.png"
+            },
+            {
+              "page": 14,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_014.png"
+            },
+            {
+              "page": 15,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_015.png"
+            },
+            {
+              "page": 16,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_016.png"
+            },
+            {
+              "page": 17,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_017.png"
+            },
+            {
+              "page": 18,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_018.png"
+            },
+            {
+              "page": 19,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_019.png"
+            },
+            {
+              "page": 20,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_020.png"
+            },
+            {
+              "page": 21,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_021.png"
+            },
+            {
+              "page": 22,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_022.png"
+            },
+            {
+              "page": 23,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_023.png"
+            },
+            {
+              "page": 24,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_024.png"
+            },
+            {
+              "page": 25,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_025.png"
+            },
+            {
+              "page": 26,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_026.png"
+            },
+            {
+              "page": 27,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_027.png"
+            },
+            {
+              "page": 28,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_028.png"
+            },
+            {
+              "page": 29,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e/page_029.png"
+            }
+          ]
+        },
+        {
+          "filename": "2018_1question_math_e_1.pdf",
+          "type": "question",
+          "language": "en",
+          "total_pages": 29,
+          "text_pages": 29,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_004.png"
+            },
+            {
+              "page": 5,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_005.png"
+            },
+            {
+              "page": 6,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_006.png"
+            },
+            {
+              "page": 7,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_007.png"
+            },
+            {
+              "page": 8,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_008.png"
+            },
+            {
+              "page": 9,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_009.png"
+            },
+            {
+              "page": 10,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_010.png"
+            },
+            {
+              "page": 11,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_011.png"
+            },
+            {
+              "page": 12,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_012.png"
+            },
+            {
+              "page": 13,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_013.png"
+            },
+            {
+              "page": 14,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_014.png"
+            },
+            {
+              "page": 15,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_015.png"
+            },
+            {
+              "page": 16,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_016.png"
+            },
+            {
+              "page": 17,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_017.png"
+            },
+            {
+              "page": 18,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_018.png"
+            },
+            {
+              "page": 19,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_019.png"
+            },
+            {
+              "page": 20,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_020.png"
+            },
+            {
+              "page": 21,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_021.png"
+            },
+            {
+              "page": 22,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_022.png"
+            },
+            {
+              "page": 23,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_023.png"
+            },
+            {
+              "page": 24,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_024.png"
+            },
+            {
+              "page": 25,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_025.png"
+            },
+            {
+              "page": 26,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_026.png"
+            },
+            {
+              "page": 27,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_027.png"
+            },
+            {
+              "page": 28,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_028.png"
+            },
+            {
+              "page": 29,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_math_e_1/page_029.png"
+            }
+          ]
+        }
+      ]
+    },
+    "science": {
+      "subject": "science",
+      "subject_ja": "理科",
+      "files": [
+        {
+          "filename": "2018_1question_science.pdf",
+          "type": "question",
+          "language": "ja",
+          "total_pages": 58,
+          "text_pages": 58,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_004.png"
+            },
+            {
+              "page": 5,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_005.png"
+            },
+            {
+              "page": 6,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_006.png"
+            },
+            {
+              "page": 7,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_007.png"
+            },
+            {
+              "page": 8,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_008.png"
+            },
+            {
+              "page": 9,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_009.png"
+            },
+            {
+              "page": 10,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_010.png"
+            },
+            {
+              "page": 11,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_011.png"
+            },
+            {
+              "page": 12,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_012.png"
+            },
+            {
+              "page": 13,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_013.png"
+            },
+            {
+              "page": 14,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_014.png"
+            },
+            {
+              "page": 15,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_015.png"
+            },
+            {
+              "page": 16,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_016.png"
+            },
+            {
+              "page": 17,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_017.png"
+            },
+            {
+              "page": 18,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_018.png"
+            },
+            {
+              "page": 19,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_019.png"
+            },
+            {
+              "page": 20,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_020.png"
+            },
+            {
+              "page": 21,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_021.png"
+            },
+            {
+              "page": 22,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_022.png"
+            },
+            {
+              "page": 23,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_023.png"
+            },
+            {
+              "page": 24,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_024.png"
+            },
+            {
+              "page": 25,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_025.png"
+            },
+            {
+              "page": 26,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_026.png"
+            },
+            {
+              "page": 27,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_027.png"
+            },
+            {
+              "page": 28,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_028.png"
+            },
+            {
+              "page": 29,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_029.png"
+            },
+            {
+              "page": 30,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_030.png"
+            },
+            {
+              "page": 31,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_031.png"
+            },
+            {
+              "page": 32,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_032.png"
+            },
+            {
+              "page": 33,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_033.png"
+            },
+            {
+              "page": 34,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_034.png"
+            },
+            {
+              "page": 35,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_035.png"
+            },
+            {
+              "page": 36,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_036.png"
+            },
+            {
+              "page": 37,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_037.png"
+            },
+            {
+              "page": 38,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_038.png"
+            },
+            {
+              "page": 39,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_039.png"
+            },
+            {
+              "page": 40,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_040.png"
+            },
+            {
+              "page": 41,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_041.png"
+            },
+            {
+              "page": 42,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_042.png"
+            },
+            {
+              "page": 43,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_043.png"
+            },
+            {
+              "page": 44,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_044.png"
+            },
+            {
+              "page": 45,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_045.png"
+            },
+            {
+              "page": 46,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_046.png"
+            },
+            {
+              "page": 47,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_047.png"
+            },
+            {
+              "page": 48,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_048.png"
+            },
+            {
+              "page": 49,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_049.png"
+            },
+            {
+              "page": 50,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_050.png"
+            },
+            {
+              "page": 51,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_051.png"
+            },
+            {
+              "page": 52,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_052.png"
+            },
+            {
+              "page": 53,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_053.png"
+            },
+            {
+              "page": 54,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_054.png"
+            },
+            {
+              "page": 55,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_055.png"
+            },
+            {
+              "page": 56,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_056.png"
+            },
+            {
+              "page": 57,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_057.png"
+            },
+            {
+              "page": 58,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science/page_058.png"
+            }
+          ]
+        },
+        {
+          "filename": "2018_1question_science_1.pdf",
+          "type": "question",
+          "language": "ja",
+          "total_pages": 58,
+          "text_pages": 58,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_004.png"
+            },
+            {
+              "page": 5,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_005.png"
+            },
+            {
+              "page": 6,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_006.png"
+            },
+            {
+              "page": 7,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_007.png"
+            },
+            {
+              "page": 8,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_008.png"
+            },
+            {
+              "page": 9,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_009.png"
+            },
+            {
+              "page": 10,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_010.png"
+            },
+            {
+              "page": 11,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_011.png"
+            },
+            {
+              "page": 12,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_012.png"
+            },
+            {
+              "page": 13,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_013.png"
+            },
+            {
+              "page": 14,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_014.png"
+            },
+            {
+              "page": 15,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_015.png"
+            },
+            {
+              "page": 16,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_016.png"
+            },
+            {
+              "page": 17,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_017.png"
+            },
+            {
+              "page": 18,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_018.png"
+            },
+            {
+              "page": 19,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_019.png"
+            },
+            {
+              "page": 20,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_020.png"
+            },
+            {
+              "page": 21,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_021.png"
+            },
+            {
+              "page": 22,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_022.png"
+            },
+            {
+              "page": 23,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_023.png"
+            },
+            {
+              "page": 24,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_024.png"
+            },
+            {
+              "page": 25,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_025.png"
+            },
+            {
+              "page": 26,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_026.png"
+            },
+            {
+              "page": 27,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_027.png"
+            },
+            {
+              "page": 28,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_028.png"
+            },
+            {
+              "page": 29,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_029.png"
+            },
+            {
+              "page": 30,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_030.png"
+            },
+            {
+              "page": 31,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_031.png"
+            },
+            {
+              "page": 32,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_032.png"
+            },
+            {
+              "page": 33,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_033.png"
+            },
+            {
+              "page": 34,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_034.png"
+            },
+            {
+              "page": 35,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_035.png"
+            },
+            {
+              "page": 36,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_036.png"
+            },
+            {
+              "page": 37,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_037.png"
+            },
+            {
+              "page": 38,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_038.png"
+            },
+            {
+              "page": 39,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_039.png"
+            },
+            {
+              "page": 40,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_040.png"
+            },
+            {
+              "page": 41,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_041.png"
+            },
+            {
+              "page": 42,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_042.png"
+            },
+            {
+              "page": 43,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_043.png"
+            },
+            {
+              "page": 44,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_044.png"
+            },
+            {
+              "page": 45,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_045.png"
+            },
+            {
+              "page": 46,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_046.png"
+            },
+            {
+              "page": 47,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_047.png"
+            },
+            {
+              "page": 48,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_048.png"
+            },
+            {
+              "page": 49,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_049.png"
+            },
+            {
+              "page": 50,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_050.png"
+            },
+            {
+              "page": 51,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_051.png"
+            },
+            {
+              "page": 52,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_052.png"
+            },
+            {
+              "page": 53,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_053.png"
+            },
+            {
+              "page": 54,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_054.png"
+            },
+            {
+              "page": 55,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_055.png"
+            },
+            {
+              "page": 56,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_056.png"
+            },
+            {
+              "page": 57,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_057.png"
+            },
+            {
+              "page": 58,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_1/page_058.png"
+            }
+          ]
+        },
+        {
+          "filename": "2018_1question_science_e.pdf",
+          "type": "question",
+          "language": "en",
+          "total_pages": 60,
+          "text_pages": 60,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_004.png"
+            },
+            {
+              "page": 5,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_005.png"
+            },
+            {
+              "page": 6,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_006.png"
+            },
+            {
+              "page": 7,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_007.png"
+            },
+            {
+              "page": 8,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_008.png"
+            },
+            {
+              "page": 9,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_009.png"
+            },
+            {
+              "page": 10,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_010.png"
+            },
+            {
+              "page": 11,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_011.png"
+            },
+            {
+              "page": 12,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_012.png"
+            },
+            {
+              "page": 13,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_013.png"
+            },
+            {
+              "page": 14,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_014.png"
+            },
+            {
+              "page": 15,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_015.png"
+            },
+            {
+              "page": 16,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_016.png"
+            },
+            {
+              "page": 17,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_017.png"
+            },
+            {
+              "page": 18,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_018.png"
+            },
+            {
+              "page": 19,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_019.png"
+            },
+            {
+              "page": 20,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_020.png"
+            },
+            {
+              "page": 21,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_021.png"
+            },
+            {
+              "page": 22,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_022.png"
+            },
+            {
+              "page": 23,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_023.png"
+            },
+            {
+              "page": 24,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_024.png"
+            },
+            {
+              "page": 25,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_025.png"
+            },
+            {
+              "page": 26,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_026.png"
+            },
+            {
+              "page": 27,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_027.png"
+            },
+            {
+              "page": 28,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_028.png"
+            },
+            {
+              "page": 29,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_029.png"
+            },
+            {
+              "page": 30,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_030.png"
+            },
+            {
+              "page": 31,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_031.png"
+            },
+            {
+              "page": 32,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_032.png"
+            },
+            {
+              "page": 33,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_033.png"
+            },
+            {
+              "page": 34,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_034.png"
+            },
+            {
+              "page": 35,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_035.png"
+            },
+            {
+              "page": 36,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_036.png"
+            },
+            {
+              "page": 37,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_037.png"
+            },
+            {
+              "page": 38,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_038.png"
+            },
+            {
+              "page": 39,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_039.png"
+            },
+            {
+              "page": 40,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_040.png"
+            },
+            {
+              "page": 41,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_041.png"
+            },
+            {
+              "page": 42,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_042.png"
+            },
+            {
+              "page": 43,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_043.png"
+            },
+            {
+              "page": 44,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_044.png"
+            },
+            {
+              "page": 45,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_045.png"
+            },
+            {
+              "page": 46,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_046.png"
+            },
+            {
+              "page": 47,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_047.png"
+            },
+            {
+              "page": 48,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_048.png"
+            },
+            {
+              "page": 49,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_049.png"
+            },
+            {
+              "page": 50,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_050.png"
+            },
+            {
+              "page": 51,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_051.png"
+            },
+            {
+              "page": 52,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_052.png"
+            },
+            {
+              "page": 53,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_053.png"
+            },
+            {
+              "page": 54,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_054.png"
+            },
+            {
+              "page": 55,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_055.png"
+            },
+            {
+              "page": 56,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_056.png"
+            },
+            {
+              "page": 57,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_057.png"
+            },
+            {
+              "page": 58,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_058.png"
+            },
+            {
+              "page": 59,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_059.png"
+            },
+            {
+              "page": 60,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e/page_060.png"
+            }
+          ]
+        },
+        {
+          "filename": "2018_1question_science_e_1.pdf",
+          "type": "question",
+          "language": "en",
+          "total_pages": 60,
+          "text_pages": 60,
+          "image_pages": 0,
+          "pages": [
+            {
+              "page": 1,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true
+            },
+            {
+              "page": 2,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_002.png"
+            },
+            {
+              "page": 3,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_003.png"
+            },
+            {
+              "page": 4,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_004.png"
+            },
+            {
+              "page": 5,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_005.png"
+            },
+            {
+              "page": 6,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_006.png"
+            },
+            {
+              "page": 7,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_007.png"
+            },
+            {
+              "page": 8,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_008.png"
+            },
+            {
+              "page": 9,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_009.png"
+            },
+            {
+              "page": 10,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_010.png"
+            },
+            {
+              "page": 11,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_011.png"
+            },
+            {
+              "page": 12,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_012.png"
+            },
+            {
+              "page": 13,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_013.png"
+            },
+            {
+              "page": 14,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_014.png"
+            },
+            {
+              "page": 15,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_015.png"
+            },
+            {
+              "page": 16,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_016.png"
+            },
+            {
+              "page": 17,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_017.png"
+            },
+            {
+              "page": 18,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_018.png"
+            },
+            {
+              "page": 19,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_019.png"
+            },
+            {
+              "page": 20,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_020.png"
+            },
+            {
+              "page": 21,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_021.png"
+            },
+            {
+              "page": 22,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_022.png"
+            },
+            {
+              "page": 23,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_023.png"
+            },
+            {
+              "page": 24,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_024.png"
+            },
+            {
+              "page": 25,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_025.png"
+            },
+            {
+              "page": 26,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_026.png"
+            },
+            {
+              "page": 27,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_027.png"
+            },
+            {
+              "page": 28,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_028.png"
+            },
+            {
+              "page": 29,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_029.png"
+            },
+            {
+              "page": 30,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_030.png"
+            },
+            {
+              "page": 31,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_031.png"
+            },
+            {
+              "page": 32,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_032.png"
+            },
+            {
+              "page": 33,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_033.png"
+            },
+            {
+              "page": 34,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_034.png"
+            },
+            {
+              "page": 35,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_035.png"
+            },
+            {
+              "page": 36,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_036.png"
+            },
+            {
+              "page": 37,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_037.png"
+            },
+            {
+              "page": 38,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_038.png"
+            },
+            {
+              "page": 39,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_039.png"
+            },
+            {
+              "page": 40,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_040.png"
+            },
+            {
+              "page": 41,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_041.png"
+            },
+            {
+              "page": 42,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_042.png"
+            },
+            {
+              "page": 43,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_043.png"
+            },
+            {
+              "page": 44,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_044.png"
+            },
+            {
+              "page": 45,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_045.png"
+            },
+            {
+              "page": 46,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_046.png"
+            },
+            {
+              "page": 47,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_047.png"
+            },
+            {
+              "page": 48,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_048.png"
+            },
+            {
+              "page": 49,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_049.png"
+            },
+            {
+              "page": 50,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_050.png"
+            },
+            {
+              "page": 51,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_051.png"
+            },
+            {
+              "page": 52,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_052.png"
+            },
+            {
+              "page": 53,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_053.png"
+            },
+            {
+              "page": 54,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_054.png"
+            },
+            {
+              "page": 55,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_055.png"
+            },
+            {
+              "page": 56,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_056.png"
+            },
+            {
+              "page": 57,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_057.png"
+            },
+            {
+              "page": 58,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_058.png"
+            },
+            {
+              "page": 59,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_059.png"
+            },
+            {
+              "page": 60,
+              "text": "© 2018 Japan Student Services Organization",
+              "has_text": true,
+              "image_path": "images/2018_1/2018_1question_science_e_1/page_060.png"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

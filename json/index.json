@@ -1,0 +1,1176 @@
+{
+  "exam": "日本留学試験（EJU）",
+  "exam_en": "Examination for Japanese University Admission for International Students",
+  "source": "JASSO (Japan Student Services Organization)",
+  "total_sessions": 20,
+  "year_range": "2010-2021",
+  "subjects": {
+    "japanese": {
+      "ja": "日本語",
+      "sections": [
+        "記述(Writing)",
+        "読解(Reading)",
+        "聴読解(Listening-Reading)",
+        "聴解(Listening)"
+      ]
+    },
+    "math": {
+      "ja": "数学",
+      "sections": [
+        "コース1(Basic)",
+        "コース2(Advanced)"
+      ]
+    },
+    "science": {
+      "ja": "理科",
+      "sections": [
+        "物理(Physics)",
+        "化学(Chemistry)",
+        "生物(Biology)"
+      ]
+    },
+    "japan_and_world": {
+      "ja": "総合科目",
+      "sections": [
+        "政治・経済・社会",
+        "地理",
+        "歴史"
+      ]
+    }
+  },
+  "sessions": [
+    {
+      "year": 2010,
+      "session": 1,
+      "session_label": "2010_第1回",
+      "exam_name": "平成22年度（2010年度）日本留学試験",
+      "file": "2010_1.json",
+      "subjects": {
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 4,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 2,
+          "text_pages": 0,
+          "image_pages": 116,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 2,
+          "text_pages": 0,
+          "image_pages": 48,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 2,
+          "text_pages": 0,
+          "image_pages": 58,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 2,
+          "text_pages": 0,
+          "image_pages": 110,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        }
+      },
+      "total_files": 12
+    },
+    {
+      "year": 2011,
+      "session": 1,
+      "session_label": "2011_第1回",
+      "exam_name": "平成23年度（2011年度）日本留学試験",
+      "file": "2011_1.json",
+      "subjects": {
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 2,
+          "text_pages": 25,
+          "image_pages": 11,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 4,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 2,
+          "text_pages": 50,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 4,
+          "text_pages": 118,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 4,
+          "text_pages": 216,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 16
+    },
+    {
+      "year": 2011,
+      "session": 2,
+      "session_label": "2011_第2回",
+      "exam_name": "平成23年度（2011年度）日本留学試験",
+      "file": "2011_2.json",
+      "subjects": {
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 3,
+          "text_pages": 44,
+          "image_pages": 5,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 4,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 2,
+          "text_pages": 36,
+          "image_pages": 0,
+          "parsed_questions": 27,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 4,
+          "text_pages": 116,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 4,
+          "text_pages": 188,
+          "image_pages": 0,
+          "parsed_questions": 38,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 17
+    },
+    {
+      "year": 2012,
+      "session": 1,
+      "session_label": "2012_第1回",
+      "exam_name": "平成24年度（2012年度）日本留学試験",
+      "file": "2012_1.json",
+      "subjects": {
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 3,
+          "text_pages": 55,
+          "image_pages": 6,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 4,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 2,
+          "text_pages": 48,
+          "image_pages": 0,
+          "parsed_questions": 26,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 4,
+          "text_pages": 118,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 4,
+          "text_pages": 256,
+          "image_pages": 0,
+          "parsed_questions": 38,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 17
+    },
+    {
+      "year": 2012,
+      "session": 2,
+      "session_label": "2012_第2回",
+      "exam_name": "平成24年度（2012年度）日本留学試験",
+      "file": "2012_2.json",
+      "subjects": {
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 3,
+          "text_pages": 50,
+          "image_pages": 5,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 8,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 2,
+          "text_pages": 46,
+          "image_pages": 0,
+          "parsed_questions": 26,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 4,
+          "text_pages": 116,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 4,
+          "text_pages": 188,
+          "image_pages": 0,
+          "parsed_questions": 38,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 18
+    },
+    {
+      "year": 2013,
+      "session": 1,
+      "session_label": "2013_第1回",
+      "exam_name": "平成25年度（2013年度）日本留学試験",
+      "file": "2013_1.json",
+      "subjects": {
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 3,
+          "text_pages": 65,
+          "image_pages": 6,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 4,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 2,
+          "text_pages": 44,
+          "image_pages": 0,
+          "parsed_questions": 30,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 4,
+          "text_pages": 116,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 4,
+          "text_pages": 220,
+          "image_pages": 0,
+          "parsed_questions": 38,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 17
+    },
+    {
+      "year": 2013,
+      "session": 2,
+      "session_label": "2013_第2回",
+      "exam_name": "平成25年度（2013年度）日本留学試験",
+      "file": "2013_2.json",
+      "subjects": {
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 3,
+          "text_pages": 43,
+          "image_pages": 5,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 4,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 2,
+          "text_pages": 45,
+          "image_pages": 0,
+          "parsed_questions": 29,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 4,
+          "text_pages": 116,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 4,
+          "text_pages": 204,
+          "image_pages": 0,
+          "parsed_questions": 38,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 17
+    },
+    {
+      "year": 2014,
+      "session": 1,
+      "session_label": "2014_第1回",
+      "exam_name": "平成26年度（2014年度）日本留学試験",
+      "file": "2014_1.json",
+      "subjects": {
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 3,
+          "text_pages": 70,
+          "image_pages": 6,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 4,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 2,
+          "text_pages": 40,
+          "image_pages": 0,
+          "parsed_questions": 26,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 4,
+          "text_pages": 116,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 4,
+          "text_pages": 216,
+          "image_pages": 0,
+          "parsed_questions": 38,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 17
+    },
+    {
+      "year": 2014,
+      "session": 2,
+      "session_label": "2014_第2回",
+      "exam_name": "平成26年度（2014年度）日本留学試験",
+      "file": "2014_2.json",
+      "subjects": {
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 3,
+          "text_pages": 125,
+          "image_pages": 5,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 4,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 2,
+          "text_pages": 40,
+          "image_pages": 0,
+          "parsed_questions": 27,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 2,
+          "text_pages": 58,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 2,
+          "text_pages": 107,
+          "image_pages": 0,
+          "parsed_questions": 19,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 13
+    },
+    {
+      "year": 2015,
+      "session": 1,
+      "session_label": "2015_第1回",
+      "exam_name": "平成27年度（2015年度）日本留学試験",
+      "file": "2015_1.json",
+      "subjects": {
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 2,
+          "text_pages": 32,
+          "image_pages": 3,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 4,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 2,
+          "text_pages": 40,
+          "image_pages": 0,
+          "parsed_questions": 29,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 4,
+          "text_pages": 60,
+          "image_pages": 58,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 4,
+          "text_pages": 168,
+          "image_pages": 40,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 16
+    },
+    {
+      "year": 2015,
+      "session": 2,
+      "session_label": "2015_第2回",
+      "exam_name": "平成27年度（2015年度）日本留学試験",
+      "file": "2015_2.json",
+      "subjects": {
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 2,
+          "text_pages": 34,
+          "image_pages": 6,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 3,
+          "text_pages": 60,
+          "image_pages": 2,
+          "parsed_questions": 29,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 4,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 3,
+          "text_pages": 30,
+          "image_pages": 59,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 3,
+          "text_pages": 116,
+          "image_pages": 40,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 15
+    },
+    {
+      "year": 2016,
+      "session": 1,
+      "session_label": "2016_第1回",
+      "exam_name": "平成28年度（2016年度）日本留学試験",
+      "file": "2016_1.json",
+      "subjects": {
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 2,
+          "text_pages": 50,
+          "image_pages": 4,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 2,
+          "image_pages": 2,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 2,
+          "text_pages": 44,
+          "image_pages": 2,
+          "parsed_questions": 31,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 4,
+          "text_pages": 4,
+          "image_pages": 114,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 4,
+          "text_pages": 158,
+          "image_pages": 54,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 16
+    },
+    {
+      "year": 2016,
+      "session": 2,
+      "session_label": "2016_第2回",
+      "exam_name": "平成28年度（2016年度）日本留学試験",
+      "file": "2016_2.json",
+      "subjects": {
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 3,
+          "text_pages": 54,
+          "image_pages": 9,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 8,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 3,
+          "text_pages": 73,
+          "image_pages": 0,
+          "parsed_questions": 30,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 4,
+          "text_pages": 60,
+          "image_pages": 58,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 4,
+          "text_pages": 172,
+          "image_pages": 36,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 20
+    },
+    {
+      "year": 2017,
+      "session": 1,
+      "session_label": "2017_第1回",
+      "exam_name": "平成29年度（2017年度）日本留学試験",
+      "file": "2017_1.json",
+      "subjects": {
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 4,
+          "image_pages": 4,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 2,
+          "text_pages": 91,
+          "image_pages": 14,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 4,
+          "text_pages": 84,
+          "image_pages": 8,
+          "parsed_questions": 64,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 2,
+          "text_pages": 52,
+          "image_pages": 7,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 2,
+          "text_pages": 103,
+          "image_pages": 9,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 16
+    },
+    {
+      "year": 2017,
+      "session": 2,
+      "session_label": "2017_第2回",
+      "exam_name": "平成29年度（2017年度）日本留学試験",
+      "file": "2017_2.json",
+      "subjects": {
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 8,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 2,
+          "text_pages": 105,
+          "image_pages": 14,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 4,
+          "text_pages": 84,
+          "image_pages": 4,
+          "parsed_questions": 62,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 2,
+          "text_pages": 52,
+          "image_pages": 7,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 2,
+          "text_pages": 57,
+          "image_pages": 49,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 16
+    },
+    {
+      "year": 2018,
+      "session": 1,
+      "session_label": "2018_第1回",
+      "exam_name": "平成30年度（2018年度）日本留学試験",
+      "file": "2018_1.json",
+      "subjects": {
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 8,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "japanese": {
+          "subject_ja": "日本語",
+          "question_files": 3,
+          "text_pages": 109,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "ja"
+          ]
+        },
+        "japan_and_world": {
+          "subject_ja": "総合科目",
+          "question_files": 2,
+          "text_pages": 50,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 4,
+          "text_pages": 118,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 4,
+          "text_pages": 236,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 18
+    },
+    {
+      "year": 2018,
+      "session": 2,
+      "session_label": "2018_第2回",
+      "exam_name": "平成30年度（2018年度）日本留学試験",
+      "file": "2018_2.json",
+      "subjects": {
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 2,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 4,
+          "text_pages": 112,
+          "image_pages": 6,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 4,
+          "text_pages": 224,
+          "image_pages": 8,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 9
+    },
+    {
+      "year": 2019,
+      "session": 1,
+      "session_label": "2019_第1回",
+      "exam_name": "令和1年度（2019年度）日本留学試験",
+      "file": "2019_1.json",
+      "subjects": {
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 4,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 4,
+          "text_pages": 118,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 4,
+          "text_pages": 232,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 10
+    },
+    {
+      "year": 2020,
+      "session": 2,
+      "session_label": "2020_第2回",
+      "exam_name": "令和2年度（2020年度）日本留学試験",
+      "file": "2020_2.json",
+      "subjects": {
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 4,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 3,
+          "text_pages": 89,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 3,
+          "text_pages": 168,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 8
+    },
+    {
+      "year": 2021,
+      "session": 1,
+      "session_label": "2021_第1回",
+      "exam_name": "令和3年度（2021年度）日本留学試験",
+      "file": "2021_1.json",
+      "subjects": {
+        "all": {
+          "subject_ja": "全科目",
+          "question_files": 0,
+          "text_pages": 4,
+          "image_pages": 0,
+          "parsed_questions": 0,
+          "languages": []
+        },
+        "math": {
+          "subject_ja": "数学",
+          "question_files": 4,
+          "text_pages": 110,
+          "image_pages": 8,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        },
+        "science": {
+          "subject_ja": "理科",
+          "question_files": 4,
+          "text_pages": 214,
+          "image_pages": 14,
+          "parsed_questions": 0,
+          "languages": [
+            "en",
+            "ja"
+          ]
+        }
+      },
+      "total_files": 10
+    }
+  ]
+}
